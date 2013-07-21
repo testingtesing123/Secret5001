@@ -18,7 +18,6 @@
         <file size="3401309" version="9ecd7172dd53888e8724f3979516b768">BigTree</file>
         <file size="3143028" version="176155b5a70b17d7c404e15481c03a82">Castle</file>
         <file size="3683129" version="94e40a43353e832fa2c23770601d0427">CastleDragon</file>
-        <file size="13019234" version="bca846ca5bb7224f6a1751f7af74ebb0">kamiPalace</file>
         <file size="3217301" version="5a89e3e5b24315a10494259d3191b24d">lakeCastle</file>
         <file size="3377256" version="372f708aef774e5ec3ccb4f22922a900">neaEkkleasia.xiraxis</file>
         <file size="3501414" version="e8c4cd3d78a45079f6cae37207aaa8d0">RavineCastle</file>
@@ -166,7 +165,6 @@
     <filegroup dest="Chocolate/Building/snowCastles/" source="Chocolate/Building/snowCastles/">
         <file size="9626203" version="a46671df7c743e7db9afed85a65697d0">CastleWE</file>
         <file size="7842221" version="47c3fb9b4579598f8521826cc551d0b4">Cathedral</file>
-        <file size="13231663" version="02e3d1f0387e59db944bd6fce0adf398">MountainCastle</file>
         <file size="8047163" version="6fac7dea783ce8aadb78ef34ecfa7933">RedstoneCastle</file>
         <file size="7968845" version="0918e45c86607cafd2bafe9a03fbfc95">SnowVillage</file>
     </filegroup>
