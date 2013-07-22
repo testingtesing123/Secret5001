@@ -316,13 +316,13 @@
         <file size="2403800" version="7beafb6adf1355e218d7ac6b74057159">AgentsAgriculture_1.0.6.zip</file>
         <file size="34728" version="fe95685faff66657a58fca57d2abbb7b">animated_mccapes-0.0.4b.jar</file>
         <file size="1077912" version="2021cb87f95aa2591627bf0b9c12d763">appeng-rv11-c.zip</file>
+        <file size="460594" version="2ea84a364e8cabd257514065dbb17713">Artifice-1.1.2-144.jar</file>
         <file size="18468" version="57845b78925482b8547ef9bb4da31f72">BackTools1.5.2v1.zip</file>
         <file size="917103" version="931807b5fce57ce615cbcbec8c25bbdb">BetterDungeons.zip</file>
         <file size="934857" version="2186608e188b4b3a4f8bfa693db200ce">BiblioCraft[v1.3.1].zip</file>
         <file size="2621430" version="115e1d4d386d5e218c65aef0e2c3a5b7">binnie-mods-1.7.0b.jar</file>
         <file size="1229617" version="11af5c9e61ddfafb1ca8461429083baf">buildcraft-A-3.7.1.jar</file>
         <file size="163104" version="c07d019d7c2e04334bb7f3b1e1284308">buildcraft-Z-additional-buildcraft-objects-1.0.6.157.jar</file>
-        <file size="71086" version="43cc19115c2a87dd0cee668b0e14d259">CampfireMod_2.5.3_for_1.5.2.zip</file>
         <file size="98933" version="d0cc6c4ea3d39687ac8b2495477f09f7">chargepads-1.5.2-universal-2.7.0.86.jar</file>
         <file size="93761" version="725bc963e51e6c2ee4cba73b7653a186">ChickenChunks 1.3.2.14.jar</file>
         <file size="508177" version="9f9d46ddbf9389734447ac60d7eb75fd">Chococraft_2.8.7.zip</file>
@@ -330,6 +330,7 @@
         <file size="1036312" version="1debf42cfda360ca9a790922e21f9c82">ComputerCraft1.53.zip</file>
         <file size="569200" version="407dad9c27d460a2a81f33db5fa9cd70">ee3-universal-pre1h-16.jar</file>
         <file size="418475" version="c1882f9d68b7fa191eaba2cc9a45e95b">ExtrabiomesXL-universal-1.5.2-3.13.4.jar</file>
+        <file size="426606" version="52d15cda0538837b4b69457900bc0ddc">extrautils - 0.2.4d.zip</file>
         <file size="868910" version="6578f9357ade0505dc970112c3f0ae33">Factorization-0.7.37.jar</file>
         <file size="3062125" version="ebac9223f07684dba820b3f1d55b553c">forestry-A-2.2.8.3.jar</file>
         <file size="274105" version="11db0cecbd4525e2674cb178b2a3eb20">GravityGun1.5.1.zip</file>
@@ -380,6 +381,7 @@
         <file size="620825" version="ad2d047c6de6db13a2d2f6bcfe3e3824">PortalGun1.5.2.zip</file>
         <file size="126752" version="a7c0efcbf98626c27c47736d0088dd76">PowerConverters-2.3.1-58.jar</file>
         <file size="2424217" version="0c87fcbee5a93a2c0293f3e3129582c9">Railcraft_1.5.2-7.2.3.0.jar</file>
+        <file size="34085" version="ebf01773c5920d155bbd98bd46a29e76">RedCoalCraft.zip</file>
         <file size="413809" version="c7eccd8653300b5e252f7449481ca322">redlogic-55.4.0.jar</file>
         <file size="400830" version="45cb708364161f52baf460d556bf9bfa">Reliquary1.0.6d.zip</file>
         <file size="128539" version="710bf046ba732873877e0922c4d4d11c">SecretRoomsMod-universal-4.6.0.283.zip</file>
@@ -396,6 +398,7 @@
         <file size="2866841" version="59994a85c4d611e99ce91bfaadc5e9b6">twilightforest-1.18.2.zip</file>
         <file size="51892" version="508f4001fe24c10069000f0e708d8e56">village-Up 1.5.2-FML.zip</file>
         <file size="71503" version="fe9f2aaa2e0586550498343f53debd49">VoxelSniperGUI_1.5.2_01(1).litemod</file>
+        <file size="262603" version="72a2c7fe5ed457fd68e4b7a2f57ee7d8">WeaponMod.zip</file>
         <file size="34145" version="a94e8953eb0fc511c746194f2f375e1f">WirelessRedstone-PowerConfig-v1.0.zip</file>
         <file size="47126" version="8aa9fc6964e6ed1ffc8f377bea34660f">WirelessRedstone-Remote-v2.1.zip</file>
         <file size="273101" version="3a7d98ec03c16108b8e1c906cf1a63c4">WirelessRedstone-Universal-v1.7.zip</file>
@@ -406,7 +409,7 @@
         <file size="9142577" version="6062775dbc384193e8aa97d9a44eab28">thing.ogg</file>
     </filegroup>
     <filegroup dest="" source="">
-        <file size="166678" version="cd43a22117a8e39f014725a6c059abfe">configs.extract.zip</file>
+        <file size="176662" version="5f44839f8d60e5b58d134abcb2a43ab2">configs.extract.zip</file>
         <file size="2306" version="f22eaf60ebe8246ae3cb3247027a8859">options.txt</file>
         <file size="1980" version="7c3ff347a23b4879c3e314883c0c6777">README.txt</file>
         <file size="135" version="d71efa8cfbbcc6d52f94e59519e31040">servers.dat</file>
