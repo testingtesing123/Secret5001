@@ -55,7 +55,7 @@ chocopediaInDungeons = true
 // designated biomes. Add the token 'all' to have Chocobos spawn in 
 // all biomes.
 // Possible biome names:
-// Ocean, Plains, Desert, Extreme Hills, Forest, Taiga, Swampland, River, Hell, Sky, FrozenOcean, FrozenRiver, Ice Plains, Ice Mountains, MushroomIsland, MushroomIslandShore, Beach, DesertHills, ForestHills, TaigaHills, Extreme Hills Edge, Jungle, JungleHills
+// Ocean, Plains, Desert, Extreme Hills, Forest, Taiga, Swampland, River, Hell, Sky, FrozenOcean, FrozenRiver, Ice Plains, Ice Mountains, MushroomIsland, MushroomIslandShore, Beach, DesertHills, ForestHills, TaigaHills, Extreme Hills Edge, Jungle, JungleHills, Alpine, Autumn Woods, Birch Forest, Extreme Jungle, Forested Hills, Forested Island, Glacier, Green Hills, Green Swamplands, Ice Wasteland, Marsh, Meadow, Mini Jungle, Mountainous Desert, Mountain Ridge, Mountain Taiga, Pine Forest, Rainforest, Redwood Forest, Lush Redwoods, Savanna, Shrubland, Snow Forest, Snowy Rainforest, Temperate Rainforest, Tundra, Wasteland, Woodlands, Desert Oil Field, Ocean Oil Field
 spawnBiomes = Extreme Hills,Extreme Hills Edge,Forest,ForestHills,Jungle,JungleHills,Plains,Swampland,Taiga,TaigaHills,Ice Mountains,Ice Plains,Hell
 
 // A group of spawnGroupMin to spawnGroupMax Yellow Chocobos will spawn with the

@@ -278,15 +278,15 @@
         <file size="750" version="3370decdfde3e7d275b34a65e6aead86">main.conf</file>
     </filegroup>
     <filegroup dest="config/buildcraft/" source="config/buildcraft/">
-        <file size="4372" version="2307445af2df2f38dc09cc308c9f0c0e">main.conf</file>
+        <file size="4372" version="20c1e218dd5c9d1c82fc65fc4c2a4095">main.conf</file>
     </filegroup>
     <filegroup dest="config/cofh/" source="config/cofh/">
         <file size="0" version="d41d8cd98f00b204e9800998ecf8427e">Capes.cfg</file>
         <file size="2029" version="4541db459052a91e093ea5840b576bd9">Core.cfg</file>
-        <file size="1332" version="8a93a453d87f3da3d19833fb064c85b4">Lexicon_Whitelist.txt</file>
-        <file size="1119" version="cf519be82abbda239dd04c15bd7da52b">OmniTools.cfg</file>
+        <file size="5111" version="4de2d2bc374301a97ebfeaf732d72c5d">Lexicon_Whitelist.txt</file>
+        <file size="1119" version="af86a57b20eb7e2d400f969d56cb1bbd">OmniTools.cfg</file>
         <file size="0" version="d41d8cd98f00b204e9800998ecf8427e">Skins.cfg</file>
-        <file size="4795" version="465e8cdebd2aa5e16fb1ef5e3de7f19a">ThermalExpansion.cfg</file>
+        <file size="4795" version="5ad5d52afe051b59c558478838598b31">ThermalExpansion.cfg</file>
         <file size="6294" version="128a2dd09706e3e1ecfd27f45bfd5a9a">World.cfg</file>
         <file size="778" version="5c253e1b19b0597c7bc3e9fcf315ba1b">WorldCustomGen.txt</file>
     </filegroup>
@@ -298,10 +298,10 @@
     </filegroup>
     <filegroup dest="config/forestry/extrabees/" source="config/forestry/extrabees/">
         <file size="948" version="8ae5dcb07a40a41d929d9e47a3fe3d7f">machines.conf</file>
-        <file size="2660" version="841777cd4036554d1ccc837ae1ff6278">main.conf</file>
+        <file size="2660" version="bb3efe34e77228b99e8b85706f7ffa97">main.conf</file>
     </filegroup>
     <filegroup dest="config/forestry/extratrees/" source="config/forestry/extratrees/">
-        <file size="1597" version="04f1e10f82b6424e72e33697a571d51b">main.conf</file>
+        <file size="1597" version="15d869680729da620952de8575c5748e">main.conf</file>
     </filegroup>
     <filegroup dest="config/forestry/gamemodes/" source="config/forestry/gamemodes/">
         <file size="3386" version="4085a664211c57c1d8cc05c1c223f747">EASY.conf</file>
@@ -312,19 +312,19 @@
     <filegroup dest="config/forestry/" source="config/forestry/">
         <file size="1347" version="86b135253c4189ee48574c2a64a9ed42">apiculture.conf</file>
         <file size="1532" version="e549c933407da0807d6ca7a9b11b781f">backpacks.conf</file>
-        <file size="5819" version="e2f3da31c9391d765f2cee8f39a303a7">base.conf</file>
-        <file size="4383" version="d3eba25165cf75ae9be6126038b62b9c">common.conf</file>
+        <file size="5819" version="f25d851d755268554131ad98fea66097">base.conf</file>
+        <file size="4323" version="7289cc74fc8cbb701e228bca6ddb83be">common.conf</file>
         <file size="759" version="94ecd47f77181e1d19b41974e5be8ea4">lepidopterology.conf</file>
-        <file size="519" version="53a1d1306aa91c5d60e1bfc8b92e01b1">pipes.conf</file>
+        <file size="510" version="2454e8c93494489af8a533e5211ef40d">pipes.conf</file>
     </filegroup>
     <filegroup dest="config/Galacticraft/" source="config/Galacticraft/">
         <file size="7371" version="f6b702a7ebe3206c911f7abfa9b49f49">core.conf</file>
         <file size="785" version="600550e6d5d16d80991db66a739c6a01">moon.conf</file>
     </filegroup>
     <filegroup dest="config/GregTech/" source="config/GregTech/">
-        <file size="3020" version="d906d635da61794ca727101358a8a322">BlockItemIDs.cfg</file>
-        <file size="57213" version="52dcc5567285998becb61ad00deca6af">DynamicConfig.cfg</file>
-        <file size="2076" version="709615643a16853b5404e40a6c278c08">GregTech.cfg</file>
+        <file size="3020" version="a846a7ae01a1f073ee703506f42e7d6e">BlockItemIDs.cfg</file>
+        <file size="56039" version="2602704382cde46fed2e9ccb9cba8196">DynamicConfig.cfg</file>
+        <file size="1808" version="6283de50005ae83177faeb16d897fbd0">GregTech.cfg</file>
         <file size="38593" version="03d1d862866f8a5d83184a6e44cb20f4">GregTech.lang</file>
     </filegroup>
     <filegroup dest="config/machinemuse/andrew/lang/" source="config/machinemuse/andrew/lang/">
@@ -339,7 +339,7 @@
     </filegroup>
     <filegroup dest="config/powercrystals/minefactoryreloaded/" source="config/powercrystals/minefactoryreloaded/">
         <file size="266" version="8391789a61fd567296c2ec4e41c11a6d">client.cfg</file>
-        <file size="10370" version="520f726938edf78791cc2116b40c3450">common.cfg</file>
+        <file size="10369" version="b5abf72eed3b9c2cab01b1fbb2e1fdee">common.cfg</file>
         <file size="14980" version="61590417962a1cf9921577e40d1c81d1">en_US.lang</file>
         <file size="15973" version="8a2352dd2cb896fdd9c6f637010057d9">es_AR.lang</file>
         <file size="15973" version="8a2352dd2cb896fdd9c6f637010057d9">es_ES.lang</file>
@@ -366,9 +366,9 @@
         <file size="2076" version="0661b2738817a6db7551f93095f6959a">common.cfg</file>
     </filegroup>
     <filegroup dest="config/railcraft/" source="config/railcraft/">
-        <file size="852" version="edd99ae1f5c39079f6d445ed0330d372">modules.cfg</file>
-        <file size="24819" version="01becd6afc784c08d00be99805a51f44">railcraft.cfg</file>
-        <file size="118" version="70444ab22a66b59039302bb41b0f2ba3">version.prop</file>
+        <file size="886" version="80cd56c6e97dc42f698b27d9a72f0ed9">modules.cfg</file>
+        <file size="24821" version="cec36bdd6bd4d432ca5b1404c7d63b09">railcraft.cfg</file>
+        <file size="118" version="fc5e6b8a61e295cfb89bc39f340ebaee">version.prop</file>
     </filegroup>
     <filegroup dest="config/shukaro/artifice/lang/" source="config/shukaro/artifice/lang/">
         <file size="4339" version="1451737ace8b1d2901ff2d81cb0f6e3a">en_US.lang</file>
@@ -378,75 +378,82 @@
     </filegroup>
     <filegroup dest="config/" source="config/">
         <file size="1379" version="5fbfe6c5fa98b6cb7464c2f8eadffcea">AdvancedSolarPanel.cfg</file>
-        <file size="4826" version="96f11fd3f75db54854765e444959227d">AppliedEnergistics.cfg</file>
-        <file size="3738" version="e4574ca469fd1034e761b90c89754154">Artifice.cfg</file>
+        <file size="8072" version="5d85c64c1a036726c60dbf03fb81031a">Aether II.cfg</file>
+        <file size="4829" version="ede368dcb16a0ec8c6d002078bd23239">AppliedEnergistics.cfg</file>
+        <file size="3738" version="3e152495bbd1f22460da3ecb6840baeb">Artifice.cfg</file>
         <file size="315" version="34e6324c5b12f55e53e5cb98e836d6de">BasicComponents.cfg</file>
+        <file size="1275" version="0e3a43b08ba9082175666c51b641571c">BattleTowers.cfg</file>
+        <file size="279" version="f5d14cae226ca596f29475c3ad5eae5c">BattleTowers_Config_Help.txt</file>
         <file size="2758" version="10fc1189b645e7a93589e766837ce543">BiblioCraft.cfg</file>
-        <file size="367" version="bc5e99132590b0ffc5f08b2345da14cb">CCTurtle.cfg</file>
+        <file size="2016" version="7459ea2fec5aebd87afcb9090451e9b8">BukkitForge.cfg</file>
+        <file size="392" version="60ec5d2f95e5929e45191ba2a8378ee3">CCTurtle.cfg</file>
         <file size="1923" version="5fee488a877b91b43cf7727e5068545a">cfm.cfg</file>
-        <file size="1033" version="39aacc5add45019efd9927f017e974d3">ChargePads.cfg</file>
-        <file size="1050" version="9db0da96aa511f4ddf83eb330cecc8ab">ChickenChunks.cfg</file>
-        <file size="3360" version="ebf656b6f49da39032e7293c0763e014">chocobo_config.txt</file>
+        <file size="1086" version="4448a24882377dbd986326ea3e14e769">ChargePads.cfg</file>
+        <file size="1049" version="8c091d0b67f2a4bad170c62fbda74d6b">ChickenChunks.cfg</file>
+        <file size="3774" version="820893045732bc90620cfbdce7794273">chocobo_config.txt</file>
         <file size="988" version="be4856e48b34000e6b9c01ed1c05dad0">chococraft.cfg</file>
         <file size="822" version="ebce9eee1df023aefb74e41e136f9964">CodeChickenCore.cfg</file>
-        <file size="1552" version="2178e589cc731685a68fc00ca18c4fc0">ComputerCraft.cfg</file>
-        <file size="3107" version="7d5967b9b61fd1f5c0592fc1fdb3f23c">ExtraUtilities.cfg</file>
-        <file size="3499" version="ebf2c635ce080ab7b3e9f0664415a43b">factorization.cfg</file>
+        <file size="1626" version="b89734e00b91a24ad781b9fd58325dd2">ComputerCraft.cfg</file>
+        <file size="3107" version="efd5aeba34d3d4f1220a39705bb74deb">ExtraUtilities.cfg</file>
+        <file size="3499" version="60e670940d3fb412f0ace6d17072ee6b">factorization.cfg</file>
+        <file size="160" version="51cb7ea22f3f0cf0527384a0875fb550">FlansMod.cfg</file>
         <file size="1280" version="59c06c31bcc64575fb043d1dfe284f17">forge.cfg</file>
         <file size="1509" version="f9dd9a33515e294491f911dd8c409677">forgeChunkLoading.cfg</file>
         <file size="3739" version="bf5393b05ee8ba9d337e1accb09162b8">GraviGun.cfg</file>
         <file size="1356" version="55c9bdfcdfc4a5120b9f22a54bc8fd84">GraviSuite.cfg</file>
-        <file size="680" version="ba3f55c8ff14d3609eab19d74c0598f3">GregsLighting.cfg</file>
-        <file size="1244" version="c1d98b6cd66dac191bf8d68c9d423c15">growthcraft_apples.cfg</file>
-        <file size="1044" version="92545844621cbf63287ebd25e2cd19c0">growthcraft_bamboo.cfg</file>
+        <file size="675" version="8d8b988e64bf82820c9c66e02df95609">GregsLighting.cfg</file>
+        <file size="1244" version="adc855697be6a7e2c3635c0de41f6d1a">growthcraft_apples.cfg</file>
+        <file size="1044" version="ae35cfb20ec5f2fc6a2adf2deb0b8d6c">growthcraft_bamboo.cfg</file>
         <file size="315" version="e085a3bf0710d793470933169c027d26">growthcraft_core_cellar.cfg</file>
         <file size="354" version="f3b1d643f7efafd979093e55fc553de1">growthcraft_fishnet.cfg</file>
-        <file size="730" version="44ed90443209d9f0c0095cd4d2fbb446">growthcraft_flowers.cfg</file>
-        <file size="1161" version="798f3c2aa49c5bf7331d5b8d3b6f3933">growthcraft_grapes.cfg</file>
-        <file size="1084" version="7f6e5b97470b060d3f72f6971600f66c">growthcraft_hops.cfg</file>
-        <file size="896" version="e84438b8f6901b8dffcc7f305344f026">growthcraft_rice.cfg</file>
+        <file size="730" version="16149b913e0e8a769ab0603f1811d9d2">growthcraft_flowers.cfg</file>
+        <file size="1160" version="9708a095c3784582bb6f54c42dc21f9e">growthcraft_grapes.cfg</file>
+        <file size="1083" version="e85d1e31af499451451aa504ff12cf12">growthcraft_hops.cfg</file>
+        <file size="896" version="7420c267b9c518f43def852fd11ca415">growthcraft_rice.cfg</file>
         <file size="3627" version="11bf3f009367fe7d3ec9e3ba53a769a5">Hats.cfg</file>
         <file size="264" version="7826148773c10818c8d6e924065d9d81">HatStand.cfg</file>
-        <file size="9351" version="6315a2bb6abc97b911b4805a2f4190c2">IC2.cfg</file>
-        <file size="918" version="e15588e71ef98275a40b06485caf5573">IC2NuclearControl.cfg</file>
+        <file size="9351" version="903d5966f3680025ef33a16f356343e9">IC2.cfg</file>
+        <file size="918" version="1efee00edafabe9918b7fcbcb7f89918">IC2NuclearControl.cfg</file>
         <file size="5268" version="3881604fd67d54ccfa8208f70e15c9b2">IC2NuclearControl.lang</file>
         <file size="80" version="55bf90e5a60cd2a2ddff1a9fbb01cf68">IDResolverknownIDs.properties</file>
         <file size="183" version="cdd969ad45461cc8ad3526c3f8f42187">IDResolvermodPriorities.properties</file>
-        <file size="1356" version="6c8e36cfbd170cfe2a346122c03ac8eb">immibis-microblocks.cfg</file>
-        <file size="2362" version="543cab12585c841d4e05cbb4575aabd2">immibis.cfg</file>
-        <file size="710" version="e7937bda2283de7a6835bcc1f2f1cf22">InvTweaks.cfg</file>
+        <file size="1357" version="bc0b77db280f7b65a8cada33efef9e71">immibis-microblocks.cfg</file>
+        <file size="2363" version="859ca4cc13f2d5e4f8b7e2e5e8e8a4cc">immibis.cfg</file>
+        <file size="710" version="4745e59a1e11f50f5eb2583ec239d4e1">InvTweaks.cfg</file>
         <file size="1386" version="cb417df87d757f6e5d00d40cea5b9401">InvTweaksRules.txt</file>
         <file size="30108" version="4c9644ae438951773b3d4265760a4efe">InvTweaksTree.txt</file>
-        <file size="618" version="e4263989bab9086477da693aaa3db496">IronChest.cfg</file>
-        <file size="2333" version="c7c8b748ff95e4af7ed434279f1251b6">MagicBees.cfg</file>
+        <file size="618" version="595954982b218c5ceb9b70427bf14c09">IronChest.cfg</file>
+        <file size="488" version="7c70a45e3d6e0efb4ad7be21030fc458">JSOne_Studios.CampfireMod.cfg</file>
+        <file size="2333" version="1886b84ca10d3180bb0de9e9c5ec27f7">MagicBees.cfg</file>
         <file size="7054" version="208821146326d954553835cd17cb8f47">MiscPeripherals.cfg</file>
         <file size="397" version="006f60cbe5a449702fbd6127f2714633">mmmPowersuits.cfg</file>
         <file size="785" version="c6c92a0a212b7d366087d4b8e3b826e5">modstats.cfg</file>
         <file size="1980" version="c2fb2cc1058381fae2d87ec824540c9c">Modular Force Field System.cfg</file>
         <file size="4510" version="da0feceb86c43bcce39477b54c0e4ee9">ModularForceFieldSystem.cfg</file>
-        <file size="555" version="ac56da8925c835b2f1b4de669fd0fce6">mod_BackTools.cfg</file>
+        <file size="555" version="a2623d5b45f26317b6329c19bd840499">mod_BackTools.cfg</file>
         <file size="477" version="bb5e4acb46e277887ce00157058f2613">mod_BackTools.dat</file>
-        <file size="6059" version="842c728deed8737162f26a1429587158">Natura.txt</file>
-        <file size="1952" version="0fe655340c55a471a9f3584f9f1fd303">NEI.cfg</file>
+        <file size="6060" version="3583c1c632b2cbabfb016178ed6c70b4">Natura.txt</file>
+        <file size="1952" version="531c910306027e2aef1a70300d9cf154">NEI.cfg</file>
         <file size="561" version="4a4bd146d3f27cff4fef8a0abbf6ac32">NEIServer.cfg</file>
         <file size="314" version="6939bf65dd0a0e26696c7d3ac6e07a02">NEISubset.cfg</file>
-        <file size="716" version="58cdd2d10472515f2df6a149f1962c5f">OCS.cfg</file>
+        <file size="716" version="8deb993d8e2ad8c48ad112a6ce95799f">OCS.cfg</file>
         <file size="1206" version="c2b4855eb0134f07b6fc221ebf8c441e">ParachuteMod.cfg</file>
-        <file size="302" version="941b5235ada1f5b9e160161f51b861a7">PetBat.cfg</file>
+        <file size="303" version="347e5692dfae0ac47407b763b1f5f9f9">PetBat.cfg</file>
         <file size="279" version="dd5047e1e11a21e122104b18eafc647a">PluginMetrics.cfg</file>
         <file size="6538" version="0552871083c3f5ca8b7858f39c7507a6">PortalGun.cfg</file>
-        <file size="817" version="c005421d37cf5f4ced10e8b14074e70b">secretroomsmod.cfg</file>
-        <file size="1277" version="81e3bc179f3813916ec44510226c3125">SGCraft.cfg</file>
-        <file size="3017" version="41b7e26f19a52ecd11b59d8654bf98dc">StevesCarts.cfg</file>
+        <file size="227" version="358c6e5b839fb9ea1550c95fd169e699">redcoalcraft.cfg</file>
+        <file size="815" version="2ee305b3f4b4bd330ee511684b7e8645">secretroomsmod.cfg</file>
+        <file size="1271" version="18d98b960ff8c54a6b8f4507b46e1412">SGCraft.cfg</file>
+        <file size="3017" version="7ad6aaebbc0e704abffbfba4ac5a5744">StevesCarts.cfg</file>
         <file size="6194" version="9a6f24eeff554ee9ca238d9c9807cba7">Thaumcraft.cfg</file>
-        <file size="2147" version="ba04d124e40b4f0e1bdc1099aebeb95d">ThaumicTinkerer.cfg</file>
-        <file size="5737" version="1b28ca25eebfaa1380a47b589c110842">TinkersWorkshop.txt</file>
+        <file size="2266" version="8ab13e1d6a7d83758f858d53fefffee4">ThaumicTinkerer.cfg</file>
+        <file size="5738" version="efe94546de93845605ddade9a33f317b">TinkersWorkshop.txt</file>
         <file size="2431" version="0c3ee3833521da9f11c24c4eb63ac245">TrailMix.cfg</file>
-        <file size="7363" version="dd1ddd03d0ea3544be719e23731128fe">Traincraft.cfg</file>
+        <file size="7363" version="78f70ea2504e50f05f74b4b239b44fa7">Traincraft.cfg</file>
         <file size="239" version="b6d5290619cc127b35947a89ed31a402">Translocator.cfg</file>
-        <file size="4819" version="ab4aa538766c51511021491a305cae6f">TwilightForest.cfg</file>
-        <file size="268" version="20e7b528dcd142bb236d554c7d89dd4e">UniversalElectricity.cfg</file>
-        <file size="921" version="30d50c9f76c7d1839ca726ede8954f52">xreliquary.cfg</file>
+        <file size="4819" version="9b1c67f65584a3f1735e4cab0bedf86b">TwilightForest.cfg</file>
+        <file size="254" version="45c220f6f9c4acb72dd250d5a05a5580">UniversalElectricity.cfg</file>
+        <file size="921" version="138cbd385715dff195bfdf8c385ac24d">xreliquary.cfg</file>
     </filegroup>
     <filegroup dest="coremods/" source="coremods/">
         <file size="314452" version="ed61a9ea476f082a95e6bf17c45c0cde">CodeChickenCore 0.8.7.3.jar</file>
@@ -462,41 +469,691 @@
         <file size="9529" version="0804f7df364b4a63b50fedfbe67940d4">.macros.txt</file>
         <file size="114" version="48778c7625e80dd53544da893c8e7f04">.vars.xml</file>
     </filegroup>
-    <filegroup dest="mods/OCSLua/1.5.2.0/lua/apis/" source="mods/OCSLua/1.5.2.0/lua/apis/">
-        <file size="4653" version="e5b2319cc9f85598946249013a114a2a">graph</file>
-        <file size="978" version="9063e397861d058559bec9c2dfe2b0ab">sensor</file>
-    </filegroup>
-    <filegroup dest="mods/OCSLua/1.5.2.0/lua/programs/" source="mods/OCSLua/1.5.2.0/lua/programs/">
-        <file size="8786" version="f0c8f99d9656df5999b7b0b6b65f7aaf">sensorview</file>
+    <filegroup dest="mods/OCSLua/1.5.2.0/lua/" source="mods/OCSLua/1.5.2.0/lua/">
+        <file size="934" version="2785d45877e2db2455ca38f8cf409c21">apis</file>
+        <file size="8502" version="7e3659e290ecf2029a23dca2f7d70d63">programs</file>
     </filegroup>
     <filegroup dest="mods/rei_minimap/" source="mods/rei_minimap/">
         <file size="322" version="4ef67d07b5158047a2706a740fcb4530">keyconfig.txt</file>
     </filegroup>
+    <filegroup dest="mods/resources/ruins/beach/" source="mods/resources/ruins/beach/">
+        <file size="721" version="01e5f3cba212f05bc3b82be66d9cb27e">BrickHouse.tml</file>
+        <file size="2873" version="96fa68a112b48004daea7ce26d339b9a">GoldWell.tml</file>
+        <file size="837" version="e363d7a899d48256d194b9465f57ee3f">LargeBrickHouse.tml</file>
+        <file size="824" version="9a80f79134da250688bd0ccdeae7310a">LargeSandstoneHouse.tml</file>
+        <file size="2559" version="16ebf598d8a7d14238c69d917c01a229">MoaiHead.tml</file>
+        <file size="1080" version="e7f7845ebee694998ec8232c1738fbcd">Obelisk.tml</file>
+        <file size="783" version="4c6b32808e7c6b12a8612b4e61f81583">PillarBase.tml</file>
+        <file size="76757" version="a16c91692eea36dd850b312bbaa68e1a">Pyramid.tml</file>
+        <file size="7489" version="f8f73d8d4c902b529a11370b114d20dd">SandCastle.tml</file>
+        <file size="721" version="16abbd817de9c4112534ed89fe4a4aa5">SandstoneHouse.tml</file>
+        <file size="962" version="7e25c2c77b8b8b6a3120d0b0b9d081e7">SandstoneRuin.tml</file>
+        <file size="3644" version="0223cfd4f84a8d6c46bc1986f227610d">SandTrap.tml</file>
+        <file size="716" version="a6852d00728e20a2b6f5ea87ef81d06b">SmallWell.tml</file>
+        <file size="16933" version="48207a5bacd4e7f2b1e05e448b25c0e6">SunkenShip-v2.tml</file>
+        <file size="1517" version="a29e8a0eb734c8fa09c1221e4eeb3092">TallTower.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/desert/" source="mods/resources/ruins/desert/">
+        <file size="4205" version="5d89bf351e8e63cb11a434014fca2bec">Beacon.tml</file>
+        <file size="721" version="01e5f3cba212f05bc3b82be66d9cb27e">BrickHouse.tml</file>
+        <file size="4520" version="ee6e9f2775d6084951857c65a9d55bfe">code_148_692_6_littlepyramid.tml</file>
+        <file size="11672" version="bac85059e4a4cc2001d587163fa96d8b">DesertBarrow.tml</file>
+        <file size="2873" version="96fa68a112b48004daea7ce26d339b9a">GoldWell.tml</file>
+        <file size="837" version="e363d7a899d48256d194b9465f57ee3f">LargeBrickHouse.tml</file>
+        <file size="833" version="5e18349268b7c23d9b5d3a3b24248102">LargeSandstoneHouse.tml</file>
+        <file size="1083" version="3a798b2ece06e37ec350ff4856cbd91b">Obelisk.tml</file>
+        <file size="783" version="4c6b32808e7c6b12a8612b4e61f81583">PillarBase.tml</file>
+        <file size="76757" version="9e5dd30466a810088feb01b20b460ad7">Pyramid.tml</file>
+        <file size="2145" version="69f344090561419a2ea1204e3598416d">RuinedDryFountain.tml</file>
+        <file size="7548" version="7d48d2ca770d1166b7fc3d71935cfb72">SandCastle.tml</file>
+        <file size="12648" version="a72ec765194eace5aa501cfa3214d8bc">SandSpire.tml</file>
+        <file size="721" version="3e423740d366bc897171a8f5997618fc">SandstoneHouse.tml</file>
+        <file size="971" version="3362bfcfe25c8d971f75b7a2a2436cf2">SandstoneRuin.tml</file>
+        <file size="3642" version="2c91423af764451cf20a7240c761783c">SandTrap.tml</file>
+        <file size="716" version="a6852d00728e20a2b6f5ea87ef81d06b">SmallWell.tml</file>
+        <file size="1527" version="72991f41e1ac7a0caa0125bf01c3b75f">TallTower.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/deserthills/" source="mods/resources/ruins/deserthills/">
+        <file size="4205" version="5d89bf351e8e63cb11a434014fca2bec">Beacon.tml</file>
+        <file size="721" version="01e5f3cba212f05bc3b82be66d9cb27e">BrickHouse.tml</file>
+        <file size="4521" version="53c535bf497c4715c678af842d90ad12">code_148_692_6_littlepyramid.tml</file>
+        <file size="2873" version="96fa68a112b48004daea7ce26d339b9a">GoldWell.tml</file>
+        <file size="837" version="e363d7a899d48256d194b9465f57ee3f">LargeBrickHouse.tml</file>
+        <file size="833" version="738cce9d0a666bbfb4f951051fc25cb2">LargeSandstoneHouse.tml</file>
+        <file size="1083" version="d8ede62cff0aebc902a7c3ad760ea465">Obelisk.tml</file>
+        <file size="783" version="4c6b32808e7c6b12a8612b4e61f81583">PillarBase.tml</file>
+        <file size="76757" version="a16c91692eea36dd850b312bbaa68e1a">Pyramid.tml</file>
+        <file size="2145" version="bd8d98e23cc5b191a4ba2fbad0cd00b4">RuinedDryFountain.tml</file>
+        <file size="7488" version="afaa05d6d13858a00fa3d488d06a1283">SandCastle.tml</file>
+        <file size="12648" version="a72ec765194eace5aa501cfa3214d8bc">SandSpire.tml</file>
+        <file size="721" version="5f16668d9e6b9f43f8cb462a171fe7dd">SandstoneHouse.tml</file>
+        <file size="971" version="3faa2a7fa571cb255c005b3fc607c99e">SandstoneRuin.tml</file>
+        <file size="3644" version="0223cfd4f84a8d6c46bc1986f227610d">SandTrap.tml</file>
+        <file size="716" version="a6852d00728e20a2b6f5ea87ef81d06b">SmallWell.tml</file>
+        <file size="1527" version="72991f41e1ac7a0caa0125bf01c3b75f">TallTower.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/extreme hills/" source="mods/resources/ruins/extreme hills/">
+        <file size="2475" version="02d83728c273f13a00a58811e86dfb63">Archway.tml</file>
+        <file size="14240" version="31aca7db4b13f7d579c624bb3f8f18a1">BaloonLow.tml</file>
+        <file size="8160" version="ba02353a0e8365a766a092e883675f52">BaloonVeryLow.tml</file>
+        <file size="20771" version="0f361555b7a462018fd466a0580264c7">BattleBasementHard.tml</file>
+        <file size="20773" version="5f3234d797f8edb29929533eccda930d">BattleBasementMedium.tml</file>
+        <file size="4195" version="15563a4c062937c8726c56b78308082e">Beacon.tml</file>
+        <file size="3567" version="fd8416e47efa8d946d675d7d7e80740d">BlockHenge.tml</file>
+        <file size="5906" version="237fbada9a86f175bc7b5c041fc370dc">DiamondWell.tml</file>
+        <file size="3502" version="cd49af3f984981a4f0c280afd724e36c">DwarfBase-mtn.tml</file>
+        <file size="8925" version="ec94d03dc4efbec2dc218d347dfcef04">Gazebo.tml</file>
+        <file size="2873" version="96fa68a112b48004daea7ce26d339b9a">GoldWell.tml</file>
+        <file size="2258" version="0f0ab24ac3734c87f4a65adfc8011d9d">GuardHouse.tml</file>
+        <file size="986" version="6966385d65c8f8b78734fcc98ec6bc68">LargeStoneHouse.tml</file>
+        <file size="1502" version="4b2dcc3066ad103f017fbd640ddb5057">LargeStoneHouseWBasement.tml</file>
+        <file size="1392" version="8395a60add7779acb7fbdc55754feda4">LargeStoneTwoStoryHouse.tml</file>
+        <file size="2556" version="032419ff08b7fb20055380a38129e920">MoaiHead.tml</file>
+        <file size="7735" version="9fc2ae594d0341f0b938709d0b292883">Monolith.tml</file>
+        <file size="1242" version="30df5197de7153dc8f7ed3e6111ac80a">Outcrop4_good.tml</file>
+        <file size="785" version="0798655facf40732e248c02e11f4cf50">PillarBase.tml</file>
+        <file size="1076" version="e6bf674f027ce38e6772705431bbdfd6">Pit-small.tml</file>
+        <file size="1400" version="090c6090a6a14344becfacbe69d8dc48">RuinedSmallFountainDiagonal.tml</file>
+        <file size="1006" version="d58f445abe110c0e074c7142584845c1">ShortTower.tml</file>
+        <file size="15317" version="39acbd216e04031988a4b70c3823220f">SpearStatue.tml</file>
+        <file size="843" version="74cffb6de55f03d3a0dc983dc5e9e067">StoneHouse.tml</file>
+        <file size="1529" version="23d1ad3bff6b4ecdbc71dd685988eb13">TallTower.tml</file>
+        <file size="796" version="5f680f4fc27636022f9c725b9630cee3">VanillaVillageCobble-p.tml</file>
+        <file size="786" version="ebfef10de5c4d9c8a915771a78cacf56">VanillaVillageCobbleHouse-r.tml</file>
+        <file size="2168" version="f272a8ab2979404eba62c6bd61db6407">VanillaVillageEmpty-p.tml</file>
+        <file size="2177" version="4c3c4b45ab4a7533234259740144ce68">VanillaVillageEmptyHouse-r.tml</file>
+        <file size="790" version="ea6f43afb2e22e2d2bc782e6d3ff4770">VanillaVillageHut-p.tml</file>
+        <file size="723" version="79cbc654bc9f4b756be06dc92cfeaa2c">VanillaVillageHut-r.tml</file>
+        <file size="710" version="f7197691dc4d5fe384b9975e148f842a">VanillaVillageLadder-p.tml</file>
+        <file size="3839" version="a3718aadc5bd3354015a32cd102e02c8">VolcanicVent3_good.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/extreme hills edge/" source="mods/resources/ruins/extreme hills edge/">
+        <file size="2475" version="02d83728c273f13a00a58811e86dfb63">Archway.tml</file>
+        <file size="14240" version="31aca7db4b13f7d579c624bb3f8f18a1">BaloonLow.tml</file>
+        <file size="8160" version="ba02353a0e8365a766a092e883675f52">BaloonVeryLow.tml</file>
+        <file size="20771" version="0f361555b7a462018fd466a0580264c7">BattleBasementHard.tml</file>
+        <file size="20773" version="5f3234d797f8edb29929533eccda930d">BattleBasementMedium.tml</file>
+        <file size="4195" version="15563a4c062937c8726c56b78308082e">Beacon.tml</file>
+        <file size="3567" version="fd8416e47efa8d946d675d7d7e80740d">BlockHenge.tml</file>
+        <file size="5906" version="237fbada9a86f175bc7b5c041fc370dc">DiamondWell.tml</file>
+        <file size="3502" version="cd49af3f984981a4f0c280afd724e36c">DwarfBase-mtn.tml</file>
+        <file size="8925" version="ec94d03dc4efbec2dc218d347dfcef04">Gazebo.tml</file>
+        <file size="2873" version="96fa68a112b48004daea7ce26d339b9a">GoldWell.tml</file>
+        <file size="2258" version="0f0ab24ac3734c87f4a65adfc8011d9d">GuardHouse.tml</file>
+        <file size="986" version="3ac29076fc32c6cc7b198bfff0fd37a8">LargeStoneHouse.tml</file>
+        <file size="1502" version="4b2dcc3066ad103f017fbd640ddb5057">LargeStoneHouseWBasement.tml</file>
+        <file size="1392" version="387ced4a94aa68db3e47722dc2c3c801">LargeStoneTwoStoryHouse.tml</file>
+        <file size="2556" version="032419ff08b7fb20055380a38129e920">MoaiHead.tml</file>
+        <file size="7735" version="9fc2ae594d0341f0b938709d0b292883">Monolith.tml</file>
+        <file size="1242" version="fa92d5ccbdb091140c627a42641c2243">Outcrop4_good.tml</file>
+        <file size="785" version="d903167d333a3402b97440b3794e5209">PillarBase.tml</file>
+        <file size="1076" version="e6bf674f027ce38e6772705431bbdfd6">Pit-small.tml</file>
+        <file size="1400" version="f20f8dd80b117c5471b37a3e85a6f782">RuinedSmallFountainDiagonal.tml</file>
+        <file size="1006" version="93b473617cca8cf1bbb79cf34bf0ee39">ShortTower.tml</file>
+        <file size="15317" version="39acbd216e04031988a4b70c3823220f">SpearStatue.tml</file>
+        <file size="843" version="74cffb6de55f03d3a0dc983dc5e9e067">StoneHouse.tml</file>
+        <file size="1529" version="e19bd43aeca5fb05c0a910588cd4d619">TallTower.tml</file>
+        <file size="14527" version="c377ce1f246cc12dc684e96e544dbd4f">Tower-edit.tml</file>
+        <file size="10324" version="e1711a09c0242f8780f687121fe0f5a0">Tower-ruined-short.tml</file>
+        <file size="796" version="5f680f4fc27636022f9c725b9630cee3">VanillaVillageCobble-p.tml</file>
+        <file size="786" version="ebfef10de5c4d9c8a915771a78cacf56">VanillaVillageCobbleHouse-r.tml</file>
+        <file size="2168" version="f272a8ab2979404eba62c6bd61db6407">VanillaVillageEmpty-p.tml</file>
+        <file size="2177" version="4c3c4b45ab4a7533234259740144ce68">VanillaVillageEmptyHouse-r.tml</file>
+        <file size="790" version="ea6f43afb2e22e2d2bc782e6d3ff4770">VanillaVillageHut-p.tml</file>
+        <file size="723" version="79cbc654bc9f4b756be06dc92cfeaa2c">VanillaVillageHut-r.tml</file>
+        <file size="710" version="f7197691dc4d5fe384b9975e148f842a">VanillaVillageLadder-p.tml</file>
+        <file size="3839" version="056182ad4f7b5006b55e5a427882ff8b">VolcanicVent3_good.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/forest/" source="mods/resources/ruins/forest/">
+        <file size="31514" version="4578205c8980dadfdbb97ad147b5923b">AlchemistsDungeon.tml</file>
+        <file size="1646" version="7e1d9274c0096b93529ff4c01b963a14">AncientFountain.tml</file>
+        <file size="2475" version="02d83728c273f13a00a58811e86dfb63">Archway.tml</file>
+        <file size="4856" version="bc5f1dd882fe06b73e1b23c0d3a428d9">Barn-intact.tml</file>
+        <file size="5014" version="841bb43750f1e014dd5befeeb659a562">Barn-ruined.tml</file>
+        <file size="11699" version="f63ba50e0ac33642dcb0478af39fa868">Barrow.tml</file>
+        <file size="20771" version="0f361555b7a462018fd466a0580264c7">BattleBasementHard.tml</file>
+        <file size="20773" version="5f3234d797f8edb29929533eccda930d">BattleBasementMedium.tml</file>
+        <file size="3569" version="79a5abdc2904429870126f91eeb260aa">BlockHenge.tml</file>
+        <file size="720" version="aace792837dd6edc5de38111aae8c43b">BrickHouse.tml</file>
+        <file size="1406" version="3cc7d5babb38a841fe1f8816655d6fbe">BridgePilings-small.tml</file>
+        <file size="5906" version="237fbada9a86f175bc7b5c041fc370dc">DiamondWell.tml</file>
+        <file size="8925" version="0b1479812da8c7a1b210cf9fef62383a">Gazebo.tml</file>
+        <file size="12980" version="56ca50300c4a4f5e0eef47f1221c2396">Gnomeworks.tml</file>
+        <file size="2873" version="e496a331e0406bf73c03f10aba64b0c4">GoldWell.tml</file>
+        <file size="834" version="4cf8130fe18920bc6ef6b81d357dc6a2">LargeBrickHouse.tml</file>
+        <file size="986" version="234b9872a0db30314b78059409a8e252">LargeStoneHouse.tml</file>
+        <file size="1502" version="f030318bbd2f4c65e6c3c0c6c027fbe8">LargeStoneHouseWBasement.tml</file>
+        <file size="1392" version="c3324e1807f24ba0f253c27d47195328">LargeStoneTwoStoryHouse.tml</file>
+        <file size="2556" version="eae109fe7479821caf41aa7bfced4571">MoaiHead.tml</file>
+        <file size="12121" version="dfea3a4ef8a29dfe651309b101f44659">MobTower.tml</file>
+        <file size="1158" version="8765b9d68cb1d0a43e4046b88af03c2e">OldFoundation.tml</file>
+        <file size="1242" version="fa92d5ccbdb091140c627a42641c2243">Outcrop4_good.tml</file>
+        <file size="785" version="cf7e337bb27b705780c9fcffb355b484">PillarBase.tml</file>
+        <file size="2171" version="c6b123633984b7ef345b7bc81dd4e613">Pit-med.tml</file>
+        <file size="1076" version="8c64092c6378f6319733b568e5d1c7ca">Pit-small.tml</file>
+        <file size="1400" version="36e63ceff7635599366d74475a0cb6f8">RuinedSmallFountainDiagonal.tml</file>
+        <file size="2379" version="d72f36c1c04aca32b77be827ab14cb95">RuinedTripleFountain.tml</file>
+        <file size="1006" version="fde9b23a1d1ac33e7ad79bf2124c521d">ShortTower.tml</file>
+        <file size="716" version="10deb1798711310ec448f76008ef76b1">SmallWell.tml</file>
+        <file size="21369" version="2b2ad3b18f37b2dd8a813a2e1f7025b4">SpiralTree.tml</file>
+        <file size="16386" version="f4801f8f49ac6bb1d66f0df5f8a19cdd">StoneHenge.tml</file>
+        <file size="843" version="74cffb6de55f03d3a0dc983dc5e9e067">StoneHouse.tml</file>
+        <file size="1529" version="15c944935fe0dd842070fe3cea070cfa">TallTower.tml</file>
+        <file size="741" version="ea4791b686625aaf453f71989cddc131">TinyFarmField.tml</file>
+        <file size="14527" version="c377ce1f246cc12dc684e96e544dbd4f">Tower-edit.tml</file>
+        <file size="10324" version="e1711a09c0242f8780f687121fe0f5a0">Tower-ruined-short.tml</file>
+        <file size="6387" version="784a5703ca22fc3253e503765584d989">TreeDungeon.tml</file>
+        <file size="21354" version="2b21eb1b988608335a293a7c00983d56">TreeHouse.tml</file>
+        <file size="1713" version="6d55c1614d0642df2c8d1acb877d82a3">VanillaVillageChurch-p.tml</file>
+        <file size="1706" version="ce7941c12fe467863d7f58c519f28fb8">VanillaVillageChurch-r.tml</file>
+        <file size="796" version="5f680f4fc27636022f9c725b9630cee3">VanillaVillageCobble-p.tml</file>
+        <file size="786" version="ebfef10de5c4d9c8a915771a78cacf56">VanillaVillageCobbleHouse-r.tml</file>
+        <file size="2168" version="f272a8ab2979404eba62c6bd61db6407">VanillaVillageEmpty-p.tml</file>
+        <file size="2177" version="4c3c4b45ab4a7533234259740144ce68">VanillaVillageEmptyHouse-r.tml</file>
+        <file size="1783" version="e37bffe1247eb02996e5b8eb33b6a898">VanillaVillageForge-p.tml</file>
+        <file size="1662" version="1b141c0fd31441abe85a4a5bec1af98d">VanillaVillageForge-r.tml</file>
+        <file size="790" version="ea6f43afb2e22e2d2bc782e6d3ff4770">VanillaVillageHut-p.tml</file>
+        <file size="723" version="79cbc654bc9f4b756be06dc92cfeaa2c">VanillaVillageHut-r.tml</file>
+        <file size="710" version="ee0a4c87bbfb2d754fe65308a995f333">VanillaVillageLadder-p.tml</file>
+        <file size="1941" version="b1b61a9d25149d03784c203709bb904e">VanillaVillageLibrary-p.tml</file>
+        <file size="2169" version="4b826f224f9a5c19a81c5a170f9fa5bd">VanillaVillagePig-p.tml</file>
+        <file size="1700" version="6b85affaa1b2f155451d117b8a48e667">VanillaVillageWell-p.tml</file>
+        <file size="3839" version="1599bd39bcc610293b1ebda4a47f66e0">VolcanicVent3_good.tml</file>
+        <file size="823" version="c72c09b0a0d99c9e6133d9184f8c8ae3">WoodHouse.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/foresthills/" source="mods/resources/ruins/foresthills/">
+        <file size="2475" version="02d83728c273f13a00a58811e86dfb63">Archway.tml</file>
+        <file size="11699" version="f63ba50e0ac33642dcb0478af39fa868">Barrow.tml</file>
+        <file size="20771" version="0f361555b7a462018fd466a0580264c7">BattleBasementHard.tml</file>
+        <file size="20773" version="5f3234d797f8edb29929533eccda930d">BattleBasementMedium.tml</file>
+        <file size="3569" version="23f3475dd3c29795fea12be3af4d4f17">BlockHenge.tml</file>
+        <file size="720" version="9b520836b006231e31ec5db85d0c5999">BrickHouse.tml</file>
+        <file size="5906" version="237fbada9a86f175bc7b5c041fc370dc">DiamondWell.tml</file>
+        <file size="8925" version="0b1479812da8c7a1b210cf9fef62383a">Gazebo.tml</file>
+        <file size="12980" version="56ca50300c4a4f5e0eef47f1221c2396">Gnomeworks.tml</file>
+        <file size="2873" version="e496a331e0406bf73c03f10aba64b0c4">GoldWell.tml</file>
+        <file size="834" version="4cf8130fe18920bc6ef6b81d357dc6a2">LargeBrickHouse.tml</file>
+        <file size="986" version="d854cd32af4cd0a6917890ffc7f292de">LargeStoneHouse.tml</file>
+        <file size="1502" version="38dd80c305402737121e7c0cd4d36547">LargeStoneHouseWBasement.tml</file>
+        <file size="1392" version="9741ed9c637a7e1952b79e365504a879">LargeStoneTwoStoryHouse.tml</file>
+        <file size="2556" version="eae109fe7479821caf41aa7bfced4571">MoaiHead.tml</file>
+        <file size="12121" version="8761fca6d67b1885e28f519e83cad80e">MobTower.tml</file>
+        <file size="1158" version="dcfd96be229a3d4801ab6335e0d7a98e">OldFoundation.tml</file>
+        <file size="1242" version="fa92d5ccbdb091140c627a42641c2243">Outcrop4_good.tml</file>
+        <file size="785" version="47c607b731b1ad1571c9097332d0eeaf">PillarBase.tml</file>
+        <file size="1076" version="8c64092c6378f6319733b568e5d1c7ca">Pit-small.tml</file>
+        <file size="1400" version="9d2786db8cce0963cc4c93ffca000721">RuinedSmallFountainDiagonal.tml</file>
+        <file size="2379" version="d72f36c1c04aca32b77be827ab14cb95">RuinedTripleFountain.tml</file>
+        <file size="1006" version="f3e6766bc41b9b11fd6713653c178c90">ShortTower.tml</file>
+        <file size="716" version="10deb1798711310ec448f76008ef76b1">SmallWell.tml</file>
+        <file size="21369" version="2b2ad3b18f37b2dd8a813a2e1f7025b4">SpiralTree.tml</file>
+        <file size="16386" version="f4801f8f49ac6bb1d66f0df5f8a19cdd">StoneHenge.tml</file>
+        <file size="843" version="74cffb6de55f03d3a0dc983dc5e9e067">StoneHouse.tml</file>
+        <file size="1529" version="7f891d4c76f7241aa8ee2fae2a9c64d9">TallTower.tml</file>
+        <file size="739" version="43b24c3a800bdda14d8282a88a62e6f4">TinyFarmField.tml</file>
+        <file size="14527" version="c377ce1f246cc12dc684e96e544dbd4f">Tower-edit.tml</file>
+        <file size="10324" version="e1711a09c0242f8780f687121fe0f5a0">Tower-ruined-short.tml</file>
+        <file size="6387" version="784a5703ca22fc3253e503765584d989">TreeDungeon.tml</file>
+        <file size="21354" version="2b21eb1b988608335a293a7c00983d56">TreeHouse.tml</file>
+        <file size="796" version="5f680f4fc27636022f9c725b9630cee3">VanillaVillageCobble-p.tml</file>
+        <file size="786" version="ebfef10de5c4d9c8a915771a78cacf56">VanillaVillageCobbleHouse-r.tml</file>
+        <file size="2168" version="f272a8ab2979404eba62c6bd61db6407">VanillaVillageEmpty-p.tml</file>
+        <file size="2177" version="4c3c4b45ab4a7533234259740144ce68">VanillaVillageEmptyHouse-r.tml</file>
+        <file size="790" version="ea6f43afb2e22e2d2bc782e6d3ff4770">VanillaVillageHut-p.tml</file>
+        <file size="723" version="79cbc654bc9f4b756be06dc92cfeaa2c">VanillaVillageHut-r.tml</file>
+        <file size="710" version="ee0a4c87bbfb2d754fe65308a995f333">VanillaVillageLadder-p.tml</file>
+        <file size="3839" version="056182ad4f7b5006b55e5a427882ff8b">VolcanicVent3_good.tml</file>
+        <file size="823" version="071549d2b41ef9f3de1b142a002cbb29">WoodHouse.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/frozenocean/" source="mods/resources/ruins/frozenocean/">
+        <file size="2217" version="cc0776212eca1233c8c3b6769a6d969a">TP_FishingShack.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/frozenriver/" source="mods/resources/ruins/frozenriver/">
+        <file size="1414" version="f04d3b11b8e7665ef6334094a7ff3a47">BridgePilings-small_river.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/hell/" source="mods/resources/ruins/hell/">
+        <file size="35961" version="f0098974a24514a6ed1b6f0b2dbbdf30">FlamingSkullHouse.tml</file>
+        <file size="934" version="dc1a3dfb68322cf3c02a8e89ac9e69fb">LargeNetherHouse.tml</file>
+        <file size="786" version="9ca5f6c2cb5370159cd41307a9435796">NetherHouse.tml</file>
+        <file size="1070" version="1fe6e66d63fc601999277e6e54145a60">NetherShrine.tml</file>
+        <file size="892" version="3225a761a1cd9f850a79fba9a91a34a5">PortalShrine.tml</file>
+        <file size="1001" version="12b93edeac3a41da3765c52104da8d0a">ShortNetherTower.tml</file>
+        <file size="1514" version="8819f3d9511c6b51d2250c201e40eacd">TallNetherTower.tml</file>
+        <file size="29527" version="cc224c219bc7cfad42e2c6e02e95629d">Tower-nether.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/ice mountains/" source="mods/resources/ruins/ice mountains/">
+        <file size="2475" version="6d0450ec8d821dd13e725cde4e5d8904">Archway.tml</file>
+        <file size="20771" version="0f361555b7a462018fd466a0580264c7">BattleBasementHard.tml</file>
+        <file size="20773" version="5f3234d797f8edb29929533eccda930d">BattleBasementMedium.tml</file>
+        <file size="3567" version="fd8416e47efa8d946d675d7d7e80740d">BlockHenge.tml</file>
+        <file size="3502" version="cd49af3f984981a4f0c280afd724e36c">DwarfBase-mtn.tml</file>
+        <file size="1970" version="195161bebde1a721f81eca54f129acf5">FrozenBush.tml</file>
+        <file size="8425" version="e836ddbf4176e4de3a2b569be0a21540">FrozenTree.tml</file>
+        <file size="2258" version="7a37fc1870003bc7e457195fbbcc2b23">GuardHouse.tml</file>
+        <file size="4975" version="ce59de130159cd8029dc04ceab9c2159">Igloo.tml</file>
+        <file size="986" version="0cfce7bb039added6da4c745e79daca7">LargeStoneHouse.tml</file>
+        <file size="1502" version="2d7a54c64c6ab789209c5df59ba5dea2">LargeStoneHouseWBasement.tml</file>
+        <file size="1392" version="7ca5571ef007f0317526b4f03573656e">LargeStoneTwoStoryHouse.tml</file>
+        <file size="12121" version="8761fca6d67b1885e28f519e83cad80e">MobTower.tml</file>
+        <file size="7735" version="9fc2ae594d0341f0b938709d0b292883">Monolith.tml</file>
+        <file size="1158" version="807f3eb8f1b5242bf05120f06671fd75">OldFoundation.tml</file>
+        <file size="1242" version="fa92d5ccbdb091140c627a42641c2243">Outcrop4_good.tml</file>
+        <file size="785" version="c3cec53f96ec1288e01746871ae3018a">PillarBase.tml</file>
+        <file size="1076" version="8c64092c6378f6319733b568e5d1c7ca">Pit-small.tml</file>
+        <file size="1400" version="1686b116c7671c7dde4296f823e840d1">RuinedSmallFountainDiagonal.tml</file>
+        <file size="1006" version="b36c835799c98524724d222601380429">ShortTower.tml</file>
+        <file size="2260" version="5b932a8cfa3693e29271a9e01ba52933">SnowHenge.tml</file>
+        <file size="806" version="662e117647e620876a6561e10fd14461">SnowHouse1.tml</file>
+        <file size="21369" version="2b2ad3b18f37b2dd8a813a2e1f7025b4">SpiralTree.tml</file>
+        <file size="16386" version="2887e18911573aa0b1223d01a0a71ea6">StoneHenge.tml</file>
+        <file size="843" version="74cffb6de55f03d3a0dc983dc5e9e067">StoneHouse.tml</file>
+        <file size="1529" version="47a49732204373fb3d40a8cbb15329e6">TallTower.tml</file>
+        <file size="14527" version="c377ce1f246cc12dc684e96e544dbd4f">Tower-edit.tml</file>
+        <file size="10324" version="e1711a09c0242f8780f687121fe0f5a0">Tower-ruined-short.tml</file>
+        <file size="796" version="5f680f4fc27636022f9c725b9630cee3">VanillaVillageCobble-p.tml</file>
+        <file size="786" version="ebfef10de5c4d9c8a915771a78cacf56">VanillaVillageCobbleHouse-r.tml</file>
+        <file size="2168" version="f272a8ab2979404eba62c6bd61db6407">VanillaVillageEmpty-p.tml</file>
+        <file size="2177" version="4c3c4b45ab4a7533234259740144ce68">VanillaVillageEmptyHouse-r.tml</file>
+        <file size="790" version="ea6f43afb2e22e2d2bc782e6d3ff4770">VanillaVillageHut-p.tml</file>
+        <file size="723" version="79cbc654bc9f4b756be06dc92cfeaa2c">VanillaVillageHut-r.tml</file>
+        <file size="710" version="f7197691dc4d5fe384b9975e148f842a">VanillaVillageLadder-p.tml</file>
+        <file size="3839" version="056182ad4f7b5006b55e5a427882ff8b">VolcanicVent3_good.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/ice plains/" source="mods/resources/ruins/ice plains/">
+        <file size="31514" version="4578205c8980dadfdbb97ad147b5923b">AlchemistsDungeon.tml</file>
+        <file size="2477" version="fb05ab263c5b607c5e0b43eebf4eeb36">Archway.tml</file>
+        <file size="4856" version="bc5f1dd882fe06b73e1b23c0d3a428d9">Barn-intact.tml</file>
+        <file size="5014" version="a1f4a48f6a10a2f8262b93755e6ba4b4">Barn-ruined.tml</file>
+        <file size="11699" version="f63ba50e0ac33642dcb0478af39fa868">Barrow.tml</file>
+        <file size="20771" version="0f361555b7a462018fd466a0580264c7">BattleBasementHard.tml</file>
+        <file size="20773" version="5f3234d797f8edb29929533eccda930d">BattleBasementMedium.tml</file>
+        <file size="3569" version="23f3475dd3c29795fea12be3af4d4f17">BlockHenge.tml</file>
+        <file size="1970" version="195161bebde1a721f81eca54f129acf5">FrozenBush.tml</file>
+        <file size="8425" version="e836ddbf4176e4de3a2b569be0a21540">FrozenTree.tml</file>
+        <file size="12980" version="ce53d1a1cf1a60d4d49ae07918ad85bb">Gnomeworks.tml</file>
+        <file size="4974" version="d14b55ac2e8a04e0d266d1a9816220f2">Igloo.tml</file>
+        <file size="986" version="757e2ed109d6f126b9b0069a54f499de">LargeStoneHouse.tml</file>
+        <file size="1502" version="b45a0747392872efa7fdba308d8eace6">LargeStoneHouseWBasement.tml</file>
+        <file size="1392" version="5a8a46f6309229bed30e88bfe101a982">LargeStoneTwoStoryHouse.tml</file>
+        <file size="12121" version="dfea3a4ef8a29dfe651309b101f44659">MobTower.tml</file>
+        <file size="7735" version="9fc2ae594d0341f0b938709d0b292883">Monolith.tml</file>
+        <file size="1242" version="fa92d5ccbdb091140c627a42641c2243">Outcrop4_good.tml</file>
+        <file size="785" version="e8cb3f984c5a0e53dc67ca3fd5edab04">PillarBase.tml</file>
+        <file size="13910" version="1aac8aa17d328efe6a8021f084655bcf">Pit-big.tml</file>
+        <file size="1076" version="8c64092c6378f6319733b568e5d1c7ca">Pit-small.tml</file>
+        <file size="1400" version="36e63ceff7635599366d74475a0cb6f8">RuinedSmallFountainDiagonal.tml</file>
+        <file size="2379" version="d72f36c1c04aca32b77be827ab14cb95">RuinedTripleFountain.tml</file>
+        <file size="1006" version="a76473b184c7825982b06a9b94cfba08">ShortTower.tml</file>
+        <file size="2260" version="5b932a8cfa3693e29271a9e01ba52933">SnowHenge.tml</file>
+        <file size="806" version="662e117647e620876a6561e10fd14461">SnowHouse1.tml</file>
+        <file size="806" version="4ed24fc046d1791913f7aa1d2f55588a">SnowHouse2.tml</file>
+        <file size="806" version="33ccd0509e62e05ae0a734bd26420101">SnowHouse3.tml</file>
+        <file size="16386" version="f4801f8f49ac6bb1d66f0df5f8a19cdd">StoneHenge.tml</file>
+        <file size="843" version="74cffb6de55f03d3a0dc983dc5e9e067">StoneHouse.tml</file>
+        <file size="1529" version="7aa93cc8c6b20cfd1ee3041060b15dc9">TallTower.tml</file>
+        <file size="741" version="bf9847e1549cd25dfb9c7b50e2a42f6b">TinyFarmField.tml</file>
+        <file size="14527" version="c377ce1f246cc12dc684e96e544dbd4f">Tower-edit.tml</file>
+        <file size="10324" version="e1711a09c0242f8780f687121fe0f5a0">Tower-ruined-short.tml</file>
+        <file size="1713" version="6d55c1614d0642df2c8d1acb877d82a3">VanillaVillageChurch-p.tml</file>
+        <file size="1706" version="ce7941c12fe467863d7f58c519f28fb8">VanillaVillageChurch-r.tml</file>
+        <file size="796" version="5f680f4fc27636022f9c725b9630cee3">VanillaVillageCobble-p.tml</file>
+        <file size="786" version="ebfef10de5c4d9c8a915771a78cacf56">VanillaVillageCobbleHouse-r.tml</file>
+        <file size="2168" version="f272a8ab2979404eba62c6bd61db6407">VanillaVillageEmpty-p.tml</file>
+        <file size="2177" version="4c3c4b45ab4a7533234259740144ce68">VanillaVillageEmptyHouse-r.tml</file>
+        <file size="1783" version="e37bffe1247eb02996e5b8eb33b6a898">VanillaVillageForge-p.tml</file>
+        <file size="1662" version="1b141c0fd31441abe85a4a5bec1af98d">VanillaVillageForge-r.tml</file>
+        <file size="790" version="ea6f43afb2e22e2d2bc782e6d3ff4770">VanillaVillageHut-p.tml</file>
+        <file size="723" version="79cbc654bc9f4b756be06dc92cfeaa2c">VanillaVillageHut-r.tml</file>
+        <file size="710" version="ee0a4c87bbfb2d754fe65308a995f333">VanillaVillageLadder-p.tml</file>
+        <file size="1941" version="b1b61a9d25149d03784c203709bb904e">VanillaVillageLibrary-p.tml</file>
+        <file size="2169" version="4b826f224f9a5c19a81c5a170f9fa5bd">VanillaVillagePig-p.tml</file>
+        <file size="1700" version="6b85affaa1b2f155451d117b8a48e667">VanillaVillageWell-p.tml</file>
+        <file size="3839" version="056182ad4f7b5006b55e5a427882ff8b">VolcanicVent3_good.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/jungle/" source="mods/resources/ruins/jungle/">
+        <file size="20771" version="9547ee2b7c9a295aa332c642f6b59e9d">BattleBasementHard.tml</file>
+        <file size="20773" version="95ac60d62e246b678d8546984bd64820">BattleBasementMedium.tml</file>
+        <file size="1440" version="e942e3e1e7abe9eb17f1f1d82727ae58">BridgePilings-sm2.tml</file>
+        <file size="12980" version="56ca50300c4a4f5e0eef47f1221c2396">Gnomeworks.tml</file>
+        <file size="764" version="de2b6f59632fddc2ca4c362b4774dd1f">JungleSpiderBurrow.tml</file>
+        <file size="779" version="83eb76e693e557249f4379dbcccb00ac">JungleThroneWood.tml</file>
+        <file size="6359" version="cae2b60e59f7ea570cceed93c0f87a0a">JungleTreePlatform.tml</file>
+        <file size="6355" version="e83048ebadc12d5754cc0d557f47bc56">JungleTreePlatform_edit.tml</file>
+        <file size="3387" version="b20ad573993a03768fa74a9076f0ea18">Mausoleum.tml</file>
+        <file size="12442" version="69049c7c9c6bbea13accdcc48c72998e">OreSpire.tml</file>
+        <file size="1242" version="30df5197de7153dc8f7ed3e6111ac80a">Outcrop4_good.tml</file>
+        <file size="1077" version="42aba49184dd802be462ea03688dd992">Pit-small.tml</file>
+        <file size="21370" version="2d617359cb645fdd5edabbbbd489f7e6">SpiralTree.tml</file>
+        <file size="1530" version="5987d0b06de8040c0a771440ce403342">TallTower.tml</file>
+        <file size="14527" version="94a24e92dc8ce3b000def20f9aa02f77">Tower-edit.tml</file>
+        <file size="10324" version="6c29c5bcd53f23b8da405367d69f1379">Tower-ruined-short.tml</file>
+        <file size="21354" version="2b21eb1b988608335a293a7c00983d56">TreeHouse.tml</file>
+        <file size="1706" version="e6b138ee2247c93164c0fcb34576b06e">VanillaVillageChurch-r.tml</file>
+        <file size="2177" version="51e9320f0e7e561ed5234800018df6bc">VanillaVillageEmptyHouse-r.tml</file>
+        <file size="1662" version="a55f8269c9556d44da152a5d1afab49c">VanillaVillageForge-r.tml</file>
+        <file size="1700" version="88b85201585e8be587bc19a0d97505cb">VanillaVillageWell-p.tml</file>
+        <file size="3847" version="a99d24a81b35f8f578c91f673ba0b6b3">WaterTrapRoom.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/junglehills/" source="mods/resources/ruins/junglehills/">
+        <file size="20772" version="3a8cb24e2a1950afa5eb5cf0e9c411a1">BattleBasementHard.tml</file>
+        <file size="20774" version="5c99b5d2d95fe577ee2049d1dc64a207">BattleBasementMedium.tml</file>
+        <file size="764" version="ed708881ce440172279a797c756fc39c">JungleSpiderBurrow.tml</file>
+        <file size="779" version="9bf6368a22a5341afe89c17381336db1">JungleThroneWood.tml</file>
+        <file size="6359" version="cae2b60e59f7ea570cceed93c0f87a0a">JungleTreePlatform.tml</file>
+        <file size="6355" version="54306f8e04301589b129f9856411c66c">JungleTreePlatform_edit.tml</file>
+        <file size="12442" version="69049c7c9c6bbea13accdcc48c72998e">OreSpire.tml</file>
+        <file size="1242" version="30df5197de7153dc8f7ed3e6111ac80a">Outcrop4_good.tml</file>
+        <file size="21370" version="2d617359cb645fdd5edabbbbd489f7e6">SpiralTree.tml</file>
+        <file size="1530" version="9a8ca46cb4c8497093b517f28558aaa1">TallTower.tml</file>
+        <file size="21354" version="2b21eb1b988608335a293a7c00983d56">TreeHouse.tml</file>
+        <file size="3847" version="a99d24a81b35f8f578c91f673ba0b6b3">WaterTrapRoom.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/mushroomisland/" source="mods/resources/ruins/mushroomisland/">
+        <file size="20772" version="cee3beb72f9c928e72243aa5259ee102">BattleBasementHard.tml</file>
+        <file size="20774" version="8343b499929775b4ac4c253c234efaa4">BattleBasementMedium.tml</file>
+        <file size="2559" version="aa2d70be06bdc3b09db3768defb9897c">MoaiHead.tml</file>
+        <file size="12122" version="545d002cd5b156d64fd9931b6ba9d912">MobTower.tml</file>
+        <file size="15208" version="dba00bfb055caefaef4c5218170578ca">Orthanc.tml</file>
+        <file size="14528" version="5ddc411aa449254400f5727578c734d1">Tower-edit.tml</file>
+        <file size="10325" version="e8dc3889850f1a73252502674d09ef72">Tower-ruined-short.tml</file>
+        <file size="3840" version="caf3530d3162664651156b6ad2c5e9bd">VolcanicVent3_good.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/mushroomislandshore/" source="mods/resources/ruins/mushroomislandshore/">
+        <file size="2558" version="91f6e84b4b9b502fd643216424e8ffc2">MoaiHead.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/ocean/" source="mods/resources/ruins/ocean/">
+        <file size="2478" version="0bcd77c06f4f3730eb420dbe2e8e1aab">Archway.tml</file>
+        <file size="18037" version="e8cdce93f159d395871b1d72c4d369e5">BaloonHigh.tml</file>
+        <file size="14227" version="c7db00341afc56fad4615b78b75d6a3d">BaloonLow.tml</file>
+        <file size="3577" version="e61cdda546a521a48e1828d14a44a7dc">BlockHenge.tml</file>
+        <file size="1415" version="821ed38697aa95b08e024bdd40a3e055">BridgePilings-small_river.tml</file>
+        <file size="2712" version="00c26dfb1b73f6ae7101780724a5a5bd">BridgePilings2_river.tml</file>
+        <file size="1394" version="8be8092b17fd6c2f84ecead84291e13e">LargeStoneTwoStoryHouse.tml</file>
+        <file size="13944" version="a901b4453d58783577ffe56e8737931f">LightHouse.tml</file>
+        <file size="784" version="7b6e8a1376b1b194994d6e15b786c347">PillarBase.tml</file>
+        <file size="71350" version="38a28c5f53a55a42dc7aba2673b0bc44">PirateShip.tml</file>
+        <file size="1008" version="f5236673894399229954d534ecb16609">ShortTower.tml</file>
+        <file size="103778" version="2ebcecdb59677c01d0e41497290e8c16">SkyCastle.tml</file>
+        <file size="10372" version="8bee17c173bda54e1144e7c10ac7a4e3">SunkenShip-v3.tml</file>
+        <file size="1531" version="1eba9f2ad0ccb53eeb38e92fa2be68f9">TallTower.tml</file>
+        <file size="1704" version="9e7c976b281996f153efea985c0ddaad">VanillaVillageChurch-r.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/OPTIONAL/" source="mods/resources/ruins/OPTIONAL/">
+        <file size="2475" version="6d0450ec8d821dd13e725cde4e5d8904">Archway.tml</file>
+        <file size="18037" version="2d7e36cd50db92ab9967f4c0fc5e570f">BaloonHigh.tml</file>
+        <file size="14227" version="bd9919adb46cfef9bdcfc9d25c4aac78">BaloonLow.tml</file>
+        <file size="20766" version="65f4e76904553b63ee78b2db0c915cc4">BattleBasementEasy.tml</file>
+        <file size="20769" version="34ca5007d0fc4a8b495e477dfe569abc">BattleBasementHard.tml</file>
+        <file size="20771" version="28d42a4289860fa44f7179ddac5c7f81">BattleBasementMedium.tml</file>
+        <file size="4196" version="321e9c3797bf5024302b3beb48a01996">Beacon.tml</file>
+        <file size="3567" version="fd8416e47efa8d946d675d7d7e80740d">BlockHenge.tml</file>
+        <file size="719" version="ac3e2b2f8cd1b9d20310f75186a46994">BrickHouse.tml</file>
+        <file size="2280" version="bedd869357ad52d6613420d177838e63">DoomHouse.tml</file>
+        <file size="3040" version="9cd81f4b30575c2c46ba46b74f39a090">DoomTower.tml</file>
+        <file size="35954" version="6dda2fabfefd034be6a71b5dd31e2fcc">FlamingSkullHouse.tml</file>
+        <file size="23193" version="df1dd0526f4a6ef1fc1630822ddb1536">GateUnderGlass.tml</file>
+        <file size="2256" version="4744b98ad3b39f3db97f0cda5b49b5b8">GuardHouse.tml</file>
+        <file size="834" version="ae3c65574c1fea18c3b345f18e7039d4">LargeBrickHouse.tml</file>
+        <file size="934" version="dc1a3dfb68322cf3c02a8e89ac9e69fb">LargeNetherHouse.tml</file>
+        <file size="830" version="fddaa4f4722ddaeea0885c4238e77f95">LargeSandstoneHouse.tml</file>
+        <file size="984" version="236fd7bf92d1882676829e835a9e8924">LargeStoneHouse.tml</file>
+        <file size="1500" version="52de2c3f2a6ba5b0dcc26559adc6503e">LargeStoneHouseWBasement.tml</file>
+        <file size="1390" version="44b13daaa89995f8793c30a291729f6c">LargeStoneTwoStoryHouse.tml</file>
+        <file size="13944" version="2f0e663b939397f90235d9ff1dc3b682">LightHouse.tml</file>
+        <file size="3386" version="5a41f51a9681e75b159a8f5338ef7a2a">Mausoleum.tml</file>
+        <file size="2556" version="032419ff08b7fb20055380a38129e920">MoaiHead.tml</file>
+        <file size="12119" version="7ff7305242fb24a65c06fb1e2c0f4ed3">MobTower.tml</file>
+        <file size="786" version="9ca5f6c2cb5370159cd41307a9435796">NetherHouse.tml</file>
+        <file size="1072" version="5f012c334b38dd3061474851995a47c3">NetherShrine.tml</file>
+        <file size="1080" version="e7f7845ebee694998ec8232c1738fbcd">Obelisk.tml</file>
+        <file size="783" version="6cb23f200d6624c01810ac0e016804c2">PillarBase.tml</file>
+        <file size="71350" version="ced31c821e7ac3c8d323d69b342b4ed9">PirateShip.tml</file>
+        <file size="888" version="e350700cc190c3d769539a987563bc4c">PortalShrine.tml</file>
+        <file size="7488" version="7bc25562ee6f11a42d873794ebd463e4">SandCastle.tml</file>
+        <file size="718" version="f620eb450d086f38d484e1ec1d5bc9ec">SandstoneHouse.tml</file>
+        <file size="962" version="e65c1a23573055003ad62946249a31d7">SandstoneRuin.tml</file>
+        <file size="3642" version="2c91423af764451cf20a7240c761783c">SandTrap.tml</file>
+        <file size="1001" version="12b93edeac3a41da3765c52104da8d0a">ShortNetherTower.tml</file>
+        <file size="1004" version="6a70e33be375de4b37a922d785b85be1">ShortTower.tml</file>
+        <file size="103778" version="2fda31d6d347c182ce2a10230c7d9349">SkyCastle.tml</file>
+        <file size="716" version="a6852d00728e20a2b6f5ea87ef81d06b">SmallWell.tml</file>
+        <file size="2260" version="5b932a8cfa3693e29271a9e01ba52933">SnowHenge.tml</file>
+        <file size="806" version="5951dbd6bd848b5411ec10fa3e051bd0">SnowHouse1.tml</file>
+        <file size="806" version="4ed24fc046d1791913f7aa1d2f55588a">SnowHouse2.tml</file>
+        <file size="806" version="33ccd0509e62e05ae0a734bd26420101">SnowHouse3.tml</file>
+        <file size="15317" version="39acbd216e04031988a4b70c3823220f">SpearStatue.tml</file>
+        <file size="56083" version="b1ddc8c3c851de014bb5d3c35bb13574">Sphere.tml</file>
+        <file size="843" version="9fb9bf7bb2401a142f6cea010bf2aadd">StoneHouse.tml</file>
+        <file size="1514" version="8819f3d9511c6b51d2250c201e40eacd">TallNetherTower.tml</file>
+        <file size="1527" version="71a78a9af032e6610466860eece92a65">TallTower.tml</file>
+        <file size="739" version="a0dad9721c2233c393d078ee3af3901b">TinyFarmField.tml</file>
+        <file size="15184" version="49c58eba0b97970c77d7c4fbcf5afa01">TowerEasy.tml</file>
+        <file size="15184" version="bf81aeee74faf9c8f820f95b3ee1bfba">TowerHard.tml</file>
+        <file size="15184" version="634ec3b3ab9bc5b7035ee34ae78cb9e5">TowerMedium.tml</file>
+        <file size="6385" version="98e9f47e54d208536f40ee0e2b87f659">TreeDungeon.tml</file>
+        <file size="821" version="055b15dda83b8ba3f89d207b927241bb">WoodHouse.tml</file>
+        <file size="5012" version="ddcf424bc1fdfbff36491ed1886daa03">Ziggurat.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/plains/" source="mods/resources/ruins/plains/">
+        <file size="31514" version="4578205c8980dadfdbb97ad147b5923b">AlchemistsDungeon.tml</file>
+        <file size="2477" version="a9f47242c9eeadd7a952c73a98e871d4">Archway.tml</file>
+        <file size="4856" version="bc5f1dd882fe06b73e1b23c0d3a428d9">Barn-intact.tml</file>
+        <file size="5014" version="a1f4a48f6a10a2f8262b93755e6ba4b4">Barn-ruined.tml</file>
+        <file size="11699" version="1d5a5b02923a268b0dcfb73583f5af95">Barrow.tml</file>
+        <file size="20771" version="0f361555b7a462018fd466a0580264c7">BattleBasementHard.tml</file>
+        <file size="20773" version="5f3234d797f8edb29929533eccda930d">BattleBasementMedium.tml</file>
+        <file size="3567" version="fd8416e47efa8d946d675d7d7e80740d">BlockHenge.tml</file>
+        <file size="5906" version="85058d6d517c76189846c9cdd9017f0d">DiamondWell.tml</file>
+        <file size="2873" version="96fa68a112b48004daea7ce26d339b9a">GoldWell.tml</file>
+        <file size="986" version="ea3eb9e83784db280cec732f09def719">LargeStoneHouse.tml</file>
+        <file size="1502" version="840f9f53ab00c7bb9f3284447eef9c78">LargeStoneHouseWBasement.tml</file>
+        <file size="1392" version="70c247a33c406c228e8629650e5d804b">LargeStoneTwoStoryHouse.tml</file>
+        <file size="2556" version="032419ff08b7fb20055380a38129e920">MoaiHead.tml</file>
+        <file size="12121" version="8d59f3228daacd348c8c66a66d8a6d94">MobTower.tml</file>
+        <file size="7735" version="9fc2ae594d0341f0b938709d0b292883">Monolith.tml</file>
+        <file size="1158" version="8765b9d68cb1d0a43e4046b88af03c2e">OldFoundation.tml</file>
+        <file size="1242" version="30df5197de7153dc8f7ed3e6111ac80a">Outcrop4_good.tml</file>
+        <file size="785" version="5eecd466b60dc299d5e86a990cdbde46">PillarBase.tml</file>
+        <file size="13910" version="1aac8aa17d328efe6a8021f084655bcf">Pit-big.tml</file>
+        <file size="1076" version="8c64092c6378f6319733b568e5d1c7ca">Pit-small.tml</file>
+        <file size="1400" version="9d2786db8cce0963cc4c93ffca000721">RuinedSmallFountainDiagonal.tml</file>
+        <file size="2379" version="d72f36c1c04aca32b77be827ab14cb95">RuinedTripleFountain.tml</file>
+        <file size="1006" version="721a0784c72e49c87c89e16fee6f9a12">ShortTower.tml</file>
+        <file size="716" version="a6852d00728e20a2b6f5ea87ef81d06b">SmallWell.tml</file>
+        <file size="15317" version="39acbd216e04031988a4b70c3823220f">SpearStatue.tml</file>
+        <file size="16386" version="183a2d195b8632178a3bda6d1e366982">StoneHenge.tml</file>
+        <file size="843" version="74cffb6de55f03d3a0dc983dc5e9e067">StoneHouse.tml</file>
+        <file size="1529" version="668c4b246bc561fbd730e49d89416fa1">TallTower.tml</file>
+        <file size="741" version="bf9847e1549cd25dfb9c7b50e2a42f6b">TinyFarmField.tml</file>
+        <file size="14527" version="94a24e92dc8ce3b000def20f9aa02f77">Tower-edit.tml</file>
+        <file size="10324" version="6c29c5bcd53f23b8da405367d69f1379">Tower-ruined-short.tml</file>
+        <file size="1713" version="6d55c1614d0642df2c8d1acb877d82a3">VanillaVillageChurch-p.tml</file>
+        <file size="1706" version="ce7941c12fe467863d7f58c519f28fb8">VanillaVillageChurch-r.tml</file>
+        <file size="796" version="5f680f4fc27636022f9c725b9630cee3">VanillaVillageCobble-p.tml</file>
+        <file size="786" version="ebfef10de5c4d9c8a915771a78cacf56">VanillaVillageCobbleHouse-r.tml</file>
+        <file size="2168" version="f272a8ab2979404eba62c6bd61db6407">VanillaVillageEmpty-p.tml</file>
+        <file size="2177" version="4c3c4b45ab4a7533234259740144ce68">VanillaVillageEmptyHouse-r.tml</file>
+        <file size="1783" version="e37bffe1247eb02996e5b8eb33b6a898">VanillaVillageForge-p.tml</file>
+        <file size="1662" version="1b141c0fd31441abe85a4a5bec1af98d">VanillaVillageForge-r.tml</file>
+        <file size="790" version="ea6f43afb2e22e2d2bc782e6d3ff4770">VanillaVillageHut-p.tml</file>
+        <file size="723" version="b5873c82d9648524bc39e113c0d3d668">VanillaVillageHut-r.tml</file>
+        <file size="710" version="ee0a4c87bbfb2d754fe65308a995f333">VanillaVillageLadder-p.tml</file>
+        <file size="1941" version="b1b61a9d25149d03784c203709bb904e">VanillaVillageLibrary-p.tml</file>
+        <file size="2169" version="077f3ec5a34e2b711b97583e894f5e47">VanillaVillagePig-p.tml</file>
+        <file size="1700" version="6b85affaa1b2f155451d117b8a48e667">VanillaVillageWell-p.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/river/" source="mods/resources/ruins/river/">
+        <file size="1414" version="f04d3b11b8e7665ef6334094a7ff3a47">BridgePilings-small_river.tml</file>
+        <file size="2711" version="f286b1732f4bc473d23a9c1c310c7bf6">BridgePilings2_river.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/sky/" source="mods/resources/ruins/sky/">
+        <file size="20683" version="2b26402efbbf5158886485835403ed5d">EnderStatueHigh.tml</file>
+        <file size="20681" version="6f42c6406dc8fd468d52c89f1fa967c1">EnderStatueLow.tml</file>
+        <file size="20685" version="e22678f8c43845009888e8db540bfe31">EnderStatueMedHigh.tml</file>
+        <file size="20684" version="1e1e47d5274debf5fd025cf45cddbd4c">EnderStatueMedLow.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/swampland/" source="mods/resources/ruins/swampland/">
+        <file size="31514" version="4578205c8980dadfdbb97ad147b5923b">AlchemistsDungeon.tml</file>
+        <file size="20771" version="1f94dfabea6ecec1686cf23b6feca270">BattleBasementHard.tml</file>
+        <file size="20773" version="a3516ca234cf4faebcac4bba7403ffa8">BattleBasementMedium.tml</file>
+        <file size="3567" version="fd8416e47efa8d946d675d7d7e80740d">BlockHenge.tml</file>
+        <file size="719" version="ac3e2b2f8cd1b9d20310f75186a46994">BrickHouse.tml</file>
+        <file size="2739" version="43fc90b550e1a078c4b7cc54879d45ed">BridgePilings-lg2.tml</file>
+        <file size="1440" version="e942e3e1e7abe9eb17f1f1d82727ae58">BridgePilings-sm2.tml</file>
+        <file size="5906" version="237fbada9a86f175bc7b5c041fc370dc">DiamondWell.tml</file>
+        <file size="35965" version="afb5081290aecf69f591bb16a72e9293">FlamingSkullHouse.tml</file>
+        <file size="8925" version="0b1479812da8c7a1b210cf9fef62383a">Gazebo.tml</file>
+        <file size="6933" version="fd2e2ed269559c76cc74e2e6ffd2f41a">GraveyardHaunted.tml</file>
+        <file size="834" version="ae3c65574c1fea18c3b345f18e7039d4">LargeBrickHouse.tml</file>
+        <file size="2556" version="032419ff08b7fb20055380a38129e920">MoaiHead.tml</file>
+        <file size="1242" version="fa92d5ccbdb091140c627a42641c2243">Outcrop4_good.tml</file>
+        <file size="2171" version="67e618b26266c7710857154703f37740">Pit-med.tml</file>
+        <file size="1076" version="e6bf674f027ce38e6772705431bbdfd6">Pit-small.tml</file>
+        <file size="1401" version="19fb6c627dac85dcacf96a2c68d28d42">RuinedSmallFountainDiagonal.tml</file>
+        <file size="1004" version="be66d23abddfd830b09b513778a01805">ShortTower.tml</file>
+        <file size="21370" version="2d617359cb645fdd5edabbbbd489f7e6">SpiralTree.tml</file>
+        <file size="1530" version="651fb5ac97baa44d6fbfbc242fd537d8">TallTower.tml</file>
+        <file size="14527" version="c377ce1f246cc12dc684e96e544dbd4f">Tower-edit.tml</file>
+        <file size="10324" version="e1711a09c0242f8780f687121fe0f5a0">Tower-ruined-short.tml</file>
+        <file size="6387" version="106bd64b1601e69dce28d4fa810b7bcb">TreeDungeon.tml</file>
+        <file size="21354" version="2b21eb1b988608335a293a7c00983d56">TreeHouse.tml</file>
+        <file size="1706" version="f25afca024e75c752af2bfff5626d767">VanillaVillageChurch-r.tml</file>
+        <file size="786" version="ebfef10de5c4d9c8a915771a78cacf56">VanillaVillageCobbleHouse-r.tml</file>
+        <file size="2177" version="4c3c4b45ab4a7533234259740144ce68">VanillaVillageEmptyHouse-r.tml</file>
+        <file size="1662" version="1b141c0fd31441abe85a4a5bec1af98d">VanillaVillageForge-r.tml</file>
+        <file size="723" version="79cbc654bc9f4b756be06dc92cfeaa2c">VanillaVillageHut-r.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/taiga/" source="mods/resources/ruins/taiga/">
+        <file size="31514" version="4578205c8980dadfdbb97ad147b5923b">AlchemistsDungeon.tml</file>
+        <file size="2475" version="6d0450ec8d821dd13e725cde4e5d8904">Archway.tml</file>
+        <file size="4856" version="bc5f1dd882fe06b73e1b23c0d3a428d9">Barn-intact.tml</file>
+        <file size="5014" version="b04e56f7755239a98cc99be33f9e5eac">Barn-ruined.tml</file>
+        <file size="11699" version="f63ba50e0ac33642dcb0478af39fa868">Barrow.tml</file>
+        <file size="20771" version="0f361555b7a462018fd466a0580264c7">BattleBasementHard.tml</file>
+        <file size="20773" version="5f3234d797f8edb29929533eccda930d">BattleBasementMedium.tml</file>
+        <file size="3569" version="23f3475dd3c29795fea12be3af4d4f17">BlockHenge.tml</file>
+        <file size="720" version="9b520836b006231e31ec5db85d0c5999">BrickHouse.tml</file>
+        <file size="5906" version="237fbada9a86f175bc7b5c041fc370dc">DiamondWell.tml</file>
+        <file size="1970" version="195161bebde1a721f81eca54f129acf5">FrozenBush.tml</file>
+        <file size="8425" version="e836ddbf4176e4de3a2b569be0a21540">FrozenTree.tml</file>
+        <file size="8925" version="0b1479812da8c7a1b210cf9fef62383a">Gazebo.tml</file>
+        <file size="2873" version="e496a331e0406bf73c03f10aba64b0c4">GoldWell.tml</file>
+        <file size="4974" version="77235a18fb2e3276a24c785e8d3eb205">Igloo.tml</file>
+        <file size="830" version="fddaa4f4722ddaeea0885c4238e77f95">LargeSandstoneHouse.tml</file>
+        <file size="986" version="234b9872a0db30314b78059409a8e252">LargeStoneHouse.tml</file>
+        <file size="1502" version="f030318bbd2f4c65e6c3c0c6c027fbe8">LargeStoneHouseWBasement.tml</file>
+        <file size="1392" version="c3324e1807f24ba0f253c27d47195328">LargeStoneTwoStoryHouse.tml</file>
+        <file size="12121" version="dfea3a4ef8a29dfe651309b101f44659">MobTower.tml</file>
+        <file size="7735" version="b9dee4faf9f510fd6c7159c7d3caaf1f">Monolith.tml</file>
+        <file size="1158" version="d2763401075ae318611726a01152b5a4">OldFoundation.tml</file>
+        <file size="1242" version="fa92d5ccbdb091140c627a42641c2243">Outcrop4_good.tml</file>
+        <file size="785" version="cf7e337bb27b705780c9fcffb355b484">PillarBase.tml</file>
+        <file size="2171" version="5b21068568c716c2f6ed888fb778b488">Pit-med.tml</file>
+        <file size="1076" version="8c64092c6378f6319733b568e5d1c7ca">Pit-small.tml</file>
+        <file size="1400" version="35fc15b00b3f2b3cf2d3408082379d05">RuinedSmallFountainDiagonal.tml</file>
+        <file size="2379" version="f41e10977aabb94cea49baa0456d8c6c">RuinedTripleFountain.tml</file>
+        <file size="718" version="f620eb450d086f38d484e1ec1d5bc9ec">SandstoneHouse.tml</file>
+        <file size="962" version="e65c1a23573055003ad62946249a31d7">SandstoneRuin.tml</file>
+        <file size="1006" version="fde9b23a1d1ac33e7ad79bf2124c521d">ShortTower.tml</file>
+        <file size="2260" version="5b932a8cfa3693e29271a9e01ba52933">SnowHenge.tml</file>
+        <file size="806" version="5951dbd6bd848b5411ec10fa3e051bd0">SnowHouse1.tml</file>
+        <file size="806" version="4ed24fc046d1791913f7aa1d2f55588a">SnowHouse2.tml</file>
+        <file size="806" version="33ccd0509e62e05ae0a734bd26420101">SnowHouse3.tml</file>
+        <file size="21370" version="2d617359cb645fdd5edabbbbd489f7e6">SpiralTree.tml</file>
+        <file size="16386" version="f4801f8f49ac6bb1d66f0df5f8a19cdd">StoneHenge.tml</file>
+        <file size="843" version="9fb9bf7bb2401a142f6cea010bf2aadd">StoneHouse.tml</file>
+        <file size="1529" version="15c944935fe0dd842070fe3cea070cfa">TallTower.tml</file>
+        <file size="14527" version="c377ce1f246cc12dc684e96e544dbd4f">Tower-edit.tml</file>
+        <file size="10324" version="e1711a09c0242f8780f687121fe0f5a0">Tower-ruined-short.tml</file>
+        <file size="6387" version="784a5703ca22fc3253e503765584d989">TreeDungeon.tml</file>
+        <file size="21354" version="2b21eb1b988608335a293a7c00983d56">TreeHouse.tml</file>
+        <file size="1713" version="6d55c1614d0642df2c8d1acb877d82a3">VanillaVillageChurch-p.tml</file>
+        <file size="1706" version="ce7941c12fe467863d7f58c519f28fb8">VanillaVillageChurch-r.tml</file>
+        <file size="796" version="5f680f4fc27636022f9c725b9630cee3">VanillaVillageCobble-p.tml</file>
+        <file size="786" version="ebfef10de5c4d9c8a915771a78cacf56">VanillaVillageCobbleHouse-r.tml</file>
+        <file size="2168" version="f272a8ab2979404eba62c6bd61db6407">VanillaVillageEmpty-p.tml</file>
+        <file size="2177" version="4c3c4b45ab4a7533234259740144ce68">VanillaVillageEmptyHouse-r.tml</file>
+        <file size="1783" version="e37bffe1247eb02996e5b8eb33b6a898">VanillaVillageForge-p.tml</file>
+        <file size="1662" version="1b141c0fd31441abe85a4a5bec1af98d">VanillaVillageForge-r.tml</file>
+        <file size="790" version="ea6f43afb2e22e2d2bc782e6d3ff4770">VanillaVillageHut-p.tml</file>
+        <file size="723" version="79cbc654bc9f4b756be06dc92cfeaa2c">VanillaVillageHut-r.tml</file>
+        <file size="710" version="ee0a4c87bbfb2d754fe65308a995f333">VanillaVillageLadder-p.tml</file>
+        <file size="1941" version="b1b61a9d25149d03784c203709bb904e">VanillaVillageLibrary-p.tml</file>
+        <file size="2169" version="4b826f224f9a5c19a81c5a170f9fa5bd">VanillaVillagePig-p.tml</file>
+        <file size="1700" version="6b85affaa1b2f155451d117b8a48e667">VanillaVillageWell-p.tml</file>
+        <file size="3839" version="056182ad4f7b5006b55e5a427882ff8b">VolcanicVent3_good.tml</file>
+        <file size="823" version="c72c09b0a0d99c9e6133d9184f8c8ae3">WoodHouse.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/taigahills/" source="mods/resources/ruins/taigahills/">
+        <file size="2475" version="6d0450ec8d821dd13e725cde4e5d8904">Archway.tml</file>
+        <file size="20771" version="0f361555b7a462018fd466a0580264c7">BattleBasementHard.tml</file>
+        <file size="20773" version="5f3234d797f8edb29929533eccda930d">BattleBasementMedium.tml</file>
+        <file size="3569" version="23f3475dd3c29795fea12be3af4d4f17">BlockHenge.tml</file>
+        <file size="5906" version="237fbada9a86f175bc7b5c041fc370dc">DiamondWell.tml</file>
+        <file size="1970" version="195161bebde1a721f81eca54f129acf5">FrozenBush.tml</file>
+        <file size="8425" version="e836ddbf4176e4de3a2b569be0a21540">FrozenTree.tml</file>
+        <file size="8925" version="0b1479812da8c7a1b210cf9fef62383a">Gazebo.tml</file>
+        <file size="2873" version="e496a331e0406bf73c03f10aba64b0c4">GoldWell.tml</file>
+        <file size="830" version="fddaa4f4722ddaeea0885c4238e77f95">LargeSandstoneHouse.tml</file>
+        <file size="986" version="6966385d65c8f8b78734fcc98ec6bc68">LargeStoneHouse.tml</file>
+        <file size="1502" version="1ec2584902b74515786fb662cb5ba526">LargeStoneHouseWBasement.tml</file>
+        <file size="1392" version="8395a60add7779acb7fbdc55754feda4">LargeStoneTwoStoryHouse.tml</file>
+        <file size="12121" version="dfea3a4ef8a29dfe651309b101f44659">MobTower.tml</file>
+        <file size="7735" version="b9dee4faf9f510fd6c7159c7d3caaf1f">Monolith.tml</file>
+        <file size="1242" version="fa92d5ccbdb091140c627a42641c2243">Outcrop4_good.tml</file>
+        <file size="785" version="0798655facf40732e248c02e11f4cf50">PillarBase.tml</file>
+        <file size="1076" version="860a2ee8602d65ababfc9f1a2f7efc87">Pit-small.tml</file>
+        <file size="1400" version="36e63ceff7635599366d74475a0cb6f8">RuinedSmallFountainDiagonal.tml</file>
+        <file size="718" version="f620eb450d086f38d484e1ec1d5bc9ec">SandstoneHouse.tml</file>
+        <file size="962" version="e65c1a23573055003ad62946249a31d7">SandstoneRuin.tml</file>
+        <file size="1006" version="d58f445abe110c0e074c7142584845c1">ShortTower.tml</file>
+        <file size="2260" version="5b932a8cfa3693e29271a9e01ba52933">SnowHenge.tml</file>
+        <file size="806" version="5951dbd6bd848b5411ec10fa3e051bd0">SnowHouse1.tml</file>
+        <file size="806" version="4ed24fc046d1791913f7aa1d2f55588a">SnowHouse2.tml</file>
+        <file size="806" version="33ccd0509e62e05ae0a734bd26420101">SnowHouse3.tml</file>
+        <file size="21370" version="2d617359cb645fdd5edabbbbd489f7e6">SpiralTree.tml</file>
+        <file size="843" version="9fb9bf7bb2401a142f6cea010bf2aadd">StoneHouse.tml</file>
+        <file size="1529" version="23d1ad3bff6b4ecdbc71dd685988eb13">TallTower.tml</file>
+        <file size="14527" version="c377ce1f246cc12dc684e96e544dbd4f">Tower-edit.tml</file>
+        <file size="10324" version="e1711a09c0242f8780f687121fe0f5a0">Tower-ruined-short.tml</file>
+        <file size="21354" version="2b21eb1b988608335a293a7c00983d56">TreeHouse.tml</file>
+        <file size="796" version="5f680f4fc27636022f9c725b9630cee3">VanillaVillageCobble-p.tml</file>
+        <file size="786" version="ebfef10de5c4d9c8a915771a78cacf56">VanillaVillageCobbleHouse-r.tml</file>
+        <file size="2168" version="f272a8ab2979404eba62c6bd61db6407">VanillaVillageEmpty-p.tml</file>
+        <file size="2177" version="4c3c4b45ab4a7533234259740144ce68">VanillaVillageEmptyHouse-r.tml</file>
+        <file size="790" version="ea6f43afb2e22e2d2bc782e6d3ff4770">VanillaVillageHut-p.tml</file>
+        <file size="723" version="79cbc654bc9f4b756be06dc92cfeaa2c">VanillaVillageHut-r.tml</file>
+        <file size="710" version="ee0a4c87bbfb2d754fe65308a995f333">VanillaVillageLadder-p.tml</file>
+        <file size="821" version="055b15dda83b8ba3f89d207b927241bb">WoodHouse.tml</file>
+    </filegroup>
+    <filegroup dest="mods/resources/ruins/" source="mods/resources/ruins/">
+        <file size="3159" version="f3754c3aef8fb98ca770b2d247ff2ae3">rotation_mappings.txt</file>
+    </filegroup>
     <filegroup dest="mods/VoxelModPack/" source="mods/VoxelModPack/">
-        <file size="43" version="c22e1a4ed2f12f111e6fcf9a9fc8a366">VoxelModPack.properties</file>
-        <file size="46" version="56d0a543a8367e29aacc9b113807b90e">VoxelServer.properties</file>
+        <file size="41" version="6b508e1f2620237ba53594265cf5d6bf">VoxelModPack.properties</file>
+        <file size="45" version="25d3dc25dd020668101d229e72d42a02">VoxelServer.properties</file>
     </filegroup>
     <filegroup dest="mods/VoxelMods/" source="mods/VoxelMods/">
-        <file size="375" version="a10fcfec30521d754e2c56c22d53a0d5">mobskins.lastupdate</file>
-        <file size="162" version="ed370ce52d1239a1a5827930b92b8b0d">voxelboards.properties</file>
-        <file size="394" version="4ce1c8002e2ed0280240593bafd2e069">voxelget.items.properties</file>
-        <file size="200" version="48a25e4622ba56f71e3f4908d3abfd15">voxelget.properties</file>
-        <file size="627" version="784b26308c37af7e3356efcae39b5f79">voxelmap.properties</file>
-        <file size="255" version="a0b6b617785db28f95ad2704d7d8ae25">voxelplayer.properties</file>
-        <file size="65" version="e693cbf97262e26aae114190c78fa6e3">voxeltextures.properties</file>
-        <file size="31" version="b67f3bd0c68c2d0c1bc2e81441adb608">voxelworld.properties</file>
+        <file size="375" version="53269c1cb250c98280c2679766b0cf88">mobskins.lastupdate</file>
+        <file size="154" version="cd45aa8638a732c6d7078db6ad95440d">voxelboards.properties</file>
+        <file size="381" version="5c3d18659a7a1fa4ee0e44729deaa44e">voxelget.items.properties</file>
+        <file size="187" version="0bab1eea807554f6269c991b2bb9b412">voxelget.properties</file>
+        <file size="594" version="16850f8876311e18979579d2bbf6d1d4">voxelmap.properties</file>
+        <file size="240" version="2b600749fb622f163f67ccde32935d49">voxelplayer.properties</file>
+        <file size="62" version="c8db629f3c42a13369498929a0dd84b1">voxeltextures.properties</file>
+        <file size="30" version="d97b4407a0b6d3685138de1c4263443a">voxelworld.properties</file>
     </filegroup>
     <filegroup dest="mods/" source="mods/">
         <file size="2403800" version="7beafb6adf1355e218d7ac6b74057159">AgentsAgriculture_1.0.6.zip</file>
         <file size="34728" version="fe95685faff66657a58fca57d2abbb7b">animated_mccapes-0.0.4b.jar</file>
         <file size="1077912" version="2021cb87f95aa2591627bf0b9c12d763">appeng-rv11-c.zip</file>
+        <file size="460594" version="2ea84a364e8cabd257514065dbb17713">Artifice-1.1.2-144.jar</file>
         <file size="18468" version="57845b78925482b8547ef9bb4da31f72">BackTools1.5.2v1.zip</file>
-        <file size="917103" version="931807b5fce57ce615cbcbec8c25bbdb">BetterDungeons.zip</file>
+        <file size="805327" version="abf89b3480d2c810369dabea6f1a5ab2">BattleTowers_1.5.2.zip</file>
         <file size="934857" version="2186608e188b4b3a4f8bfa693db200ce">BiblioCraft[v1.3.1].zip</file>
         <file size="2621430" version="115e1d4d386d5e218c65aef0e2c3a5b7">binnie-mods-1.7.0b.jar</file>
         <file size="1229617" version="11af5c9e61ddfafb1ca8461429083baf">buildcraft-A-3.7.1.jar</file>
         <file size="163104" version="c07d019d7c2e04334bb7f3b1e1284308">buildcraft-Z-additional-buildcraft-objects-1.0.6.157.jar</file>
-        <file size="71086" version="43cc19115c2a87dd0cee668b0e14d259">CampfireMod_2.5.3_for_1.5.2.zip</file>
         <file size="98933" version="d0cc6c4ea3d39687ac8b2495477f09f7">chargepads-1.5.2-universal-2.7.0.86.jar</file>
         <file size="93761" version="725bc963e51e6c2ee4cba73b7653a186">ChickenChunks 1.3.2.14.jar</file>
         <file size="508177" version="9f9d46ddbf9389734447ac60d7eb75fd">Chococraft_2.8.7.zip</file>
@@ -504,6 +1161,7 @@
         <file size="1036312" version="1debf42cfda360ca9a790922e21f9c82">ComputerCraft1.53.zip</file>
         <file size="569200" version="407dad9c27d460a2a81f33db5fa9cd70">ee3-universal-pre1h-16.jar</file>
         <file size="418475" version="c1882f9d68b7fa191eaba2cc9a45e95b">ExtrabiomesXL-universal-1.5.2-3.13.4.jar</file>
+        <file size="426606" version="52d15cda0538837b4b69457900bc0ddc">extrautils - 0.2.4d.zip</file>
         <file size="868910" version="6578f9357ade0505dc970112c3f0ae33">Factorization-0.7.37.jar</file>
         <file size="3062125" version="ebac9223f07684dba820b3f1d55b553c">forestry-A-2.2.8.3.jar</file>
         <file size="274105" version="11db0cecbd4525e2674cb178b2a3eb20">GravityGun1.5.1.zip</file>
@@ -530,7 +1188,7 @@
         <file size="107847" version="3f6821a260c0f3c572ec49f0730c4132">lib_voxellib_mc1.5.2.litemod</file>
         <file size="129845" version="6d30ccdcc64a6ad1b7476f802401db64">liquid-xp-55.1.5.jar</file>
         <file size="105674" version="ca5e7a598269cd1d53486b2f7cc7d892">LOZmod 1.5 Pre 3.6 prot3ch.zip</file>
-        <file size="671627" version="bf66d1a6c612da564ba9a336aab88629">magicbees-2.0.2.jar</file>
+        <file size="671518" version="5604594d1c9ac0c2f2c27a0777a3484a">magicbees-2.0.4.jar</file>
         <file size="1893717" version="25ea00ef0b5a6c6f449bdbb8517df826">MineFactoryReloaded-2.6.4-975.jar</file>
         <file size="810017" version="a6861ddd7821cbb92ddc60cd5eb35a92">miscperipherals-3.3e.jar</file>
         <file size="617731" version="77827538632664b52bb9db84d6318d6c">ModularForcefieldSystem-2.3.0.1.15.jar</file>
@@ -557,20 +1215,24 @@
         <file size="34085" version="ebf01773c5920d155bbd98bd46a29e76">RedCoalCraft.zip</file>
         <file size="413809" version="c7eccd8653300b5e252f7449481ca322">redlogic-55.4.0.jar</file>
         <file size="400830" version="45cb708364161f52baf460d556bf9bfa">Reliquary1.0.6d.zip</file>
+        <file size="2959" version="e3b222f96b02a4ec17b75b00c8229f91">ruins.txt</file>
+        <file size="45644" version="1b1d36844a468900790dea241b482ed8">Ruins_1.5.2.zip</file>
+        <file size="46798" version="df0ccddeee0e0477ac7e70751d4f2a3d">ruins_log.txt</file>
         <file size="128539" version="710bf046ba732873877e0922c4d4d11c">SecretRoomsMod-universal-4.6.0.283.zip</file>
         <file size="684323" version="9273256f50669173833c8df466ecee9c">SGCraft-0.5.2-mc1.5.1.jar</file>
         <file size="1809349" version="5fdbed82a477294eec11b1e5997ad939">StevesCarts2.0.0.a122.zip</file>
         <file size="2342875" version="b77556d35b226bab928e8e32a38d6961">TConstruct_1.3.6.7.jar</file>
-        <file size="6436535" version="aefe06e966b352b7230a33f5783c67a5">Thaumcraft3.0.5f.zip</file>
-        <file size="645876" version="47c8f477c71499da8f3abbc01f4cbd20">Thaumic Tinkerer [1.0.6].zip</file>
+        <file size="6436397" version="944c964d11c50f58c25b29a123c618f1">Thaumcraft3.0.5h.zip</file>
+        <file size="539429" version="3d39a6338434fff4a8fca4d49b680af7">Thaumic Tinkerer [1.0.7].zip</file>
         <file size="1153247" version="d8546026fae81221ccd6a1d31cd5acc6">ThermalExpansion-2.4.6.0.jar</file>
         <file size="207033" version="b1ad42331ac2fe2f2b07e62d1773079b">TrailMix1.5.0v1.zip</file>
         <file size="9179916" version="ccf8dd1aa1cad6b56dad95fbd7e5e447">Traincraft-4.0.2_003.jar</file>
         <file size="151851" version="f137b2bbfef740465bd909839985da70">Translocator 1.1.0.3.jar</file>
         <file size="304353" version="ffda60af6c272cc47bcc0efe6c44c6a7">tubestuff-55.0.4.jar</file>
         <file size="2866841" version="59994a85c4d611e99ce91bfaadc5e9b6">twilightforest-1.18.2.zip</file>
-        <file size="51892" version="508f4001fe24c10069000f0e708d8e56">village-Up 1.5.2-FML.zip</file>
+        <file size="12701" version="58a9d007daaf6a1658bc63d21d73e7cb">UpdateCheckerMod_1.5.2.zip</file>
         <file size="71503" version="fe9f2aaa2e0586550498343f53debd49">VoxelSniperGUI_1.5.2_01(1).litemod</file>
+        <file size="262603" version="72a2c7fe5ed457fd68e4b7a2f57ee7d8">WeaponMod.zip</file>
         <file size="34145" version="a94e8953eb0fc511c746194f2f375e1f">WirelessRedstone-PowerConfig-v1.0.zip</file>
         <file size="47126" version="8aa9fc6964e6ed1ffc8f377bea34660f">WirelessRedstone-Remote-v2.1.zip</file>
         <file size="273101" version="3a7d98ec03c16108b8e1c906cf1a63c4">WirelessRedstone-Universal-v1.7.zip</file>
@@ -584,5 +1246,6 @@
         <file size="2306" version="f22eaf60ebe8246ae3cb3247027a8859">options.txt</file>
         <file size="1980" version="7c3ff347a23b4879c3e314883c0c6777">README.txt</file>
         <file size="135" version="d71efa8cfbbcc6d52f94e59519e31040">servers.dat</file>
+        <file size="372" version="b092bba8063774a685f097abcc31acf5">wirelessRedstone.properties</file>
     </filegroup>
 </package>

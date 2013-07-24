@@ -56,7 +56,7 @@ block {
 ####################
 
 disabler {
-    B:"Enable wheat to flour recipe"=true
+    B:"Enable wheat to flour recipe"=false
     B:"Generate Amaranth Trees"=true
     B:"Generate Ash Clouds"=true
     B:"Generate Barley Crops"=true
