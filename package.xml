@@ -124,7 +124,7 @@
         <file size="315" version="34e6324c5b12f55e53e5cb98e836d6de">BasicComponents.cfg</file>
         <file size="1275" version="0e3a43b08ba9082175666c51b641571c">BattleTowers.cfg</file>
         <file size="279" version="f5d14cae226ca596f29475c3ad5eae5c">BattleTowers_Config_Help.txt</file>
-        <file size="2758" version="10fc1189b645e7a93589e766837ce543">BiblioCraft.cfg</file>
+        <file size="2758" version="8823dbc8da9294a268b0c66aa966e964">BiblioCraft.cfg</file>
         <file size="2016" version="7459ea2fec5aebd87afcb9090451e9b8">BukkitForge.cfg</file>
         <file size="392" version="60ec5d2f95e5929e45191ba2a8378ee3">CCTurtle.cfg</file>
         <file size="1923" version="5fee488a877b91b43cf7727e5068545a">cfm.cfg</file>
@@ -299,7 +299,6 @@
         <file size="413809" version="c7eccd8653300b5e252f7449481ca322">redlogic-55.4.0.jar</file>
         <file size="400830" version="45cb708364161f52baf460d556bf9bfa">Reliquary1.0.6d.zip</file>
         <file size="128539" version="710bf046ba732873877e0922c4d4d11c">SecretRoomsMod-universal-4.6.0.283.zip</file>
-        <file size="684323" version="9273256f50669173833c8df466ecee9c">SGCraft-0.5.2-mc1.5.1.jar</file>
         <file size="1809349" version="5fdbed82a477294eec11b1e5997ad939">StevesCarts2.0.0.a122.zip</file>
         <file size="2342875" version="b77556d35b226bab928e8e32a38d6961">TConstruct_1.3.6.7.jar</file>
         <file size="6436397" version="944c964d11c50f58c25b29a123c618f1">Thaumcraft3.0.5h.zip</file>
@@ -314,6 +313,7 @@
         <file size="34145" version="a94e8953eb0fc511c746194f2f375e1f">WirelessRedstone-PowerConfig-v1.0.zip</file>
         <file size="47126" version="8aa9fc6964e6ed1ffc8f377bea34660f">WirelessRedstone-Remote-v2.1.zip</file>
         <file size="273101" version="3a7d98ec03c16108b8e1c906cf1a63c4">WirelessRedstone-Universal-v1.7.zip</file>
+        <file size="311783" version="8630d4589018aa4c8af311dc30d32b04">[1.5.2]BetterStorage_0.6.2.23.zip</file>
         <file size="252452" version="145105c4df42e4c391c0a88117de422f">[1.5.2]ReiMinimap_v3.3_06.zip</file>
     </filegroup>
     <filegroup dest="resources/mod/streaming/" source="resources/mod/streaming/">
